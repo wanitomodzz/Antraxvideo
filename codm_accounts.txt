@@ -1,0 +1,5208 @@
+============================================================
+Account: nutandpookao
+Login: nutandpookao:0973576857bleza
+UID: 385917146
+Username: nutandpookao
+Nickname: nutandpookhao
+Email: 498****@mvsk.ac.th
+Email Status: Verified
+Phone: ****6857
+Country: TH
+Shell Balance: 14
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: nutandpookao
+CODM UID: 385917146
+CODM Region: TH
+CODM Level: 1
+Game Connections:
+- ROV: nutandpookao (TH)
+- CODM: nutandpookao (TH)
+- SPEED DRIFTERS: Greenpeaze (TH)
+============================================================
+Account: immanuelnobel08@gmail.com
+Login: immanuelnobel08@gmail.com:Positive08
+UID: 331852040
+Username: benggoal
+Nickname: beng
+Email: imm****@gmail.com
+Email Status: Verified
+Phone: ****7609
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | Auth App | [WARNING] Suspicious
+CODM Name: Plumbob
+CODM UID: 331852040
+CODM Region: ID
+CODM Level: 2
+Game Connections:
+- CODM: Plumbob (ID)
+- AOV: Plumbob (ID)
+============================================================
+Account: Tw.Ponyo
+Login: Tw.Ponyo:@Paulroa828
+UID: 518684659
+Username: Tw.Ponyo
+Nickname:
+Email: pau****@gmail.com
+Email Status: Verified
+Phone: ****8738
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA | Auth App
+CODM Name: [35r5aDM0uu2
+CODM UID: 2401195963524240
+CODM Region: PH
+CODM Level: 370
+Game Connections:
+- CODM: [35r5aDM0uu2 (PH)
+============================================================
+Account: thearm_55
+Login: thearm_55:0911950596thearm
+UID: 242282431
+Username: thearm_55
+Nickname: SUPERMAN
+Email: poi****@hotmail.com
+Email Status: Verified
+Phone:
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: HumDum...
+CODM UID: 242282431
+CODM Region: TH
+CODM Level: 34
+Game Connections:
+- ROV: คั่วแห้มแมวεїз (TH)
+- CODM: HumDum... (TH)
+- SPEED DRIFTERS: O'P$Arm (TH)
+============================================================
+Account: wtbolger12@gmail.com
+Login: wtbolger12@gmail.com:iNovan29@
+UID: 479954692
+Username: wtbolger12
+Nickname:
+Email: wtb****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: iZomboy
+CODM UID: 479954692
+CODM Region: ID
+CODM Level: 2
+Game Connections:
+- CODM: iZomboy (ID)
+============================================================
+Account: fooyetping
+Login: fooyetping:93040514ppp
+UID: 349869365
+Username: fooyetping
+Nickname: 徐太宇
+Email: bin****@yes.my
+Email Status: Not Verified
+Phone:
+Country: MY
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: fooyetping
+CODM UID: 349869365
+CODM Region: MY
+CODM Level: 33
+Game Connections:
+- CODM: fooyetping (MY)
+- SPEED DRIFTERS: fooyetping (MY)
+============================================================
+Account: qwee555e
+Login: qwee555e:qwee111z
+UID: 307803845
+Username: qwee555e
+Nickname: การแจ้งเตื
+Email: ddv****@hotmail.com
+Email Status: Not Verified
+Phone: ****7905
+Country: TH
+Shell Balance: 0
+Account Status: Inactive
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Lล่uไหม
+CODM UID: 307803845
+CODM Region: TH
+CODM Level: 32
+Game Connections:
+- ROV: ผัวไอรินรักที่สุด (TH)
+- CODM: Lล่uไหม (TH)
+============================================================
+Account: Zaxs455
+Login: Zaxs455:zaxscd095892
+UID: 147862414
+Username: zaxs455
+Nickname: ชอบพ่อง
+Email: mak****@gmail.com
+Email Status: Verified
+Phone: ****7441
+Country: TH
+Shell Balance: 20
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: joruno
+CODM UID: 2460492290835929
+CODM Region: TH
+CODM Level: 19
+Game Connections:
+- ROV: ปลาสามกรอบ (TH)
+- CODM: joruno (TH)
+============================================================
+Account: aomnanza2544
+Login: aomnanza2544:0625709801az
+UID: 336678982
+Username: aomnanza2544
+Nickname: achira_dm
+Email:
+Email Status: Not Verified
+Phone: ****6512
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: POSIDON_TH
+CODM UID: 164524528027196
+CODM Region: TH
+CODM Level: 65
+Game Connections:
+- ROV: Armโหดจัด (TH)
+- CODM: POSIDON_TH (TH)
+- SPEED DRIFTERS: BAYONG=NP (TH)
+============================================================
+Account: WikiBan
+Login: WikiBan:Marvin@69
+UID: 552373431
+Username: WikiBan
+Nickname:
+Email: mar****@gmail.com
+Email Status: Not Verified
+Phone: ****3330
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: rhixzn.NV
+CODM UID: 552373431
+CODM Region: PH
+CODM Level: 386
+Game Connections:
+- CODM: rhixzn.NV (PH)
+============================================================
+Account: vnalo0125
+Login: vnalo0125:thanh0125
+UID: 46639618
+Username: vnalo0125
+Nickname: [๖ۣۜOP] .Mr.Raijinzu
+Email: Hoa****@yahoo.com.vn
+Email Status: Verified
+Phone: ****6805
+Country: VN
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: ThanhDurian
+CODM UID: 46639618
+CODM Region: HK
+CODM Level: 31
+Game Connections:
+- ROV: Jr.Noblemanz (VN)
+============================================================
+Account: thearm_55
+Login: thearm_55:0911950596thearm
+UID: 242282431
+Username: thearm_55
+Nickname: SUPERMAN
+Email: poi****@hotmail.com
+Email Status: Verified
+Phone:
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: HumDum...
+CODM UID: 242282431
+CODM Region: TH
+CODM Level: 34
+Game Connections:
+- ROV: คั่วแห้มแมวεїз (TH)
+- CODM: HumDum... (TH)
+- SPEED DRIFTERS: O'P$Arm (TH)
+============================================================
+Account: basssiam2548
+Login: basssiam2548:basskaichiki48
+UID: 533060683
+Username: basssiam2548
+Nickname:
+Email: bas****@gmail.com
+Email Status: Not Verified
+Phone: ****7324
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: MaSaMune
+CODM UID: 533060683
+CODM Region: TH
+CODM Level: 34
+Game Connections:
+- ROV: BxB4ss (TH)
+- CODM: MaSaMune (TH)
+============================================================
+Account: nutandpookao
+Login: nutandpookao:0973576857bleza
+UID: 385917146
+Username: nutandpookao
+Nickname: nutandpookhao
+Email: 498****@mvsk.ac.th
+Email Status: Verified
+Phone: ****6857
+Country: TH
+Shell Balance: 14
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: nutandpookao
+CODM UID: 385917146
+CODM Region: TH
+CODM Level: 1
+Game Connections:
+- ROV: nutandpookao (TH)
+- CODM: nutandpookao (TH)
+- SPEED DRIFTERS: Greenpeaze (TH)
+============================================================
+Account: kambingbintodok@gmail.com
+Login: kambingbintodok@gmail.com:Animelife@01
+UID: 628598763
+Username: Fujima01
+Nickname:
+Email: kam****@gmail.com
+Email Status: Verified
+Phone: ****5631
+Country: MY
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: Kriancy
+CODM UID: 628598763
+CODM Region: MY
+CODM Level: 102
+Game Connections:
+- CODM: Kriancy (MY)
+- DELTA FORCE: Kriancy (MY)
+============================================================
+Account: raihandya
+Login: raihandya:kitty123
+UID: 253364939
+Username: raihandya
+Nickname:
+Email: rai****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: MamasGede
+CODM UID: 253364939
+CODM Region: ID
+CODM Level: 47
+Game Connections:
+- CODM: MamasGede (ID)
+- AOV: raihandya (ID)
+============================================================
+Account: teera123123
+Login: teera123123:swordstar1150
+UID: 139754377
+Username: teera123123
+Nickname: J.
+Email: kit****@gmail.com
+Email Status: Verified
+Phone: ****7358
+Country: TH
+Shell Balance: 10
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: PanDorashi
+CODM UID: 139754377
+CODM Region: TH
+CODM Level: 40
+Game Connections:
+- ROV: มึงเข้ารหัสหาพ่อง (TH)
+- CODM: PanDorashi (TH)
+- GARENA UNDAWN: PVP (TH)
+============================================================
+Account: Xoxo1070zx
+Login: Xoxo1070zx:mook0000
+UID: 386728043
+Username: xoxo1070zx
+Nickname: การแจ้งเตื
+Email: nue****@gmali.com
+Email Status: Not Verified
+Phone: ****6179
+Country: TH
+Shell Balance: 0
+Account Status: Inactive
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Deaw1070zx
+CODM UID: 386728043
+CODM Region: TH
+CODM Level: 43
+Game Connections:
+- ROV: เดี๋ยวก่อนน่ะเพื่อน (TH)
+- CODM: Deaw1070zx (TH)
+- DELTA FORCE: Sub4Matadr7 (TH)
+- SPEED DRIFTERS: Deaw1070zx (TH)
+============================================================
+Account: Joshbenedict26
+Login: Joshbenedict26:Redeklopez@026
+UID: 634402495
+Username: Joshbenedict26
+Nickname:
+Email: jos****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: Papewz
+CODM UID: 634402495
+CODM Region: PH
+CODM Level: 2
+Game Connections:
+- CODM: Papewz (PH)
+============================================================
+Account: herobrineplayz12@gmail.com
+Login: herobrineplayz12@gmail.com:Mathew23.
+UID: 545810042
+Username: Boted_ac
+Nickname:
+Email: her****@gmail.com
+Email Status: Not Verified
+Phone: ****5722
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: [fuoQVpXOq9T
+CODM UID: 545810042
+CODM Region: PH
+CODM Level: 49
+Game Connections:
+- CODM: [fuoQVpXOq9T (PH)
+============================================================
+Account: VIGOROV.COM
+Login: VIGOROV.COM:Vigorov062189.
+UID: 367961197
+Username: VIGOROV.COM
+Nickname: Thanawit Pakkasan
+Email: tha****@gmail.com
+Email Status: Verified
+Phone: ****2148
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: เยรสโหด
+CODM UID: 3322808287975712
+CODM Region: TH
+CODM Level: 10
+Game Connections:
+- ROV: กูมาเพื่อบุกเบิก!!! (TH)
+- CODM: เยรสโหด (TH)
+- SPEED DRIFTERS: ผมมันไก่กา (TH)
+============================================================
+Account: princeazarcon15
+Login: princeazarcon15:Princejustine15
+UID: 533570081
+Username: princeazarcon15
+Nickname:
+Email: pri****@gmail.com
+Email Status: Not Verified
+Phone: ****4940
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: IG@AmiriXBaby
+CODM UID: 825774097913293
+CODM Region: PH
+CODM Level: 150
+Game Connections:
+- CODM: IG@AmiriXBaby (PH)
+============================================================
+Account: dj_volcano
+Login: dj_volcano:as33971665
+UID: 65531818
+Username: DJ_Volcano
+Nickname: รหัสไก่
+Email: vol****@hotmail.com
+Email Status: Verified
+Phone:
+Country: TH
+Shell Balance: 1
+Account Status: Active
+Bind Status: Bound (Email Verified, ID Card)
+Security Status: [WARNING] Suspicious
+CODM Name: lVolcanol
+CODM UID: 65531818
+CODM Region: TH
+CODM Level: 33
+Game Connections:
+- ROV: fxrnchizz (TH)
+- CODM: lVolcanol (TH)
+============================================================
+Account: daffaaldzaky2011@gmail.com
+Login: daffaaldzaky2011@gmail.com:NAVYseal777
+UID: 396625914
+Username: daffa300911
+Nickname:
+Email: daf****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [WARNING] Suspicious
+CODM Name: daffaal123777
+CODM UID: 396625914
+CODM Region: ID
+CODM Level: 28
+Game Connections:
+- CODM: daffaal123777 (ID)
+- AOV: daffa300911 (ID)
+============================================================
+Account: ton075449322
+Login: ton075449322:0950599184Mm.
+UID: 304092900
+Username: ton075449322
+Nickname: รหัสหลักpoon
+Email: man****@gmail.com
+Email Status: Verified
+Phone: ****0028
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: จามาเเจ
+CODM UID: 287717431011098
+CODM Region: TH
+CODM Level: 14
+Game Connections:
+- ROV: Saya(1) (TH)
+- CODM: จามาเเจ (TH)
+============================================================
+Account: zx0883767560
+Login: zx0883767560:zx2062539zx
+UID: 295032716
+Username: zx0883767560
+Nickname: zx0883767560
+Email: ffm****@hotmail.com
+Email Status: Verified
+Phone: ****5017
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: ZyNxXx96
+CODM UID: 374617583427787
+CODM Region: TH
+CODM Level: 303
+Game Connections:
+- ROV: สองโว้ยเห้ยยยยย (TH)
+- CODM: ZyNxXx96 (TH)
+============================================================
+Account: fuyuki2000
+Login: fuyuki2000:Izwan8610@
+UID: 542695515
+Username: fuyuki2000
+Nickname:
+Email: sya****@gmail.com
+Email Status: Verified
+Phone: ****8201
+Country: MY
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: [dQVPzfXF0jC
+CODM UID: 542695515
+CODM Region: MY
+CODM Level: 350
+Game Connections:
+- CODM: [dQVPzfXF0jC (MY)
+- DELTA FORCE: KyoFuyuki (MY)
+- GARENA UNDAWN: EvilPrince (MY)
+============================================================
+Account: XxNo_Name0803xX
+Login: XxNo_Name0803xX:123456abc@Q
+UID: 632224230
+Username: XxNo_Name0803xX
+Nickname:
+Email: doh****@gmail.com
+Email Status: Verified
+Phone: ****0649
+Country: VN
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: 6RightKara6AZv
+CODM UID: 632224230
+CODM Region: PH
+CODM Level: 1
+============================================================
+Account: likemyshadow
+Login: likemyshadow:ShadowBeLike
+UID: 257039323
+Username: likemyshadow
+Nickname: Haruuu
+Email: lik****@yahoo.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (ID Card)
+Security Status: [SUCCESS] Normal
+CODM Name: .Astro.
+CODM UID: 257039323
+CODM Region: PH
+CODM Level: 37
+Game Connections:
+- CODM: .Astro. (PH)
+============================================================
+Account: akunpertama23
+Login: akunpertama23:malek230506
+UID: 552720224
+Username: akunpertama23
+Nickname:
+Email: rin****@gmail.com
+Email Status: Not Verified
+Phone: ****6826
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: Xposer
+CODM UID: 552720224
+CODM Region: ID
+CODM Level: 158
+Game Connections:
+- CODM: Xposer (ID)
+============================================================
+Account: pinit33210
+Login: pinit33210:pinit087
+UID: 149060246
+Username: pinit33210
+Nickname:
+Email: boo****@gmail.com
+Email Status: Verified
+Phone: ****7698
+Country: TH
+Shell Balance: 3
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: TH.Zeus
+CODM UID: 697559754061080
+CODM Region: TH
+CODM Level: 163
+Game Connections:
+- ROV: tiggerzenn (TH)
+- CODM: TH.Zeus (TH)
+- DELTA FORCE: Iam4 (TH)
+- SPEED DRIFTERS: AKST (TH)
+============================================================
+Account: owelerie@gmail.com
+Login: owelerie@gmail.com:rahmasarita20
+UID: 482508797
+Username: owelerie
+Nickname:
+Email: owe****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: 0W3L
+CODM UID: 482508797
+CODM Region: ID
+CODM Level: 5
+Game Connections:
+- CODM: 0W3L (ID)
+- AOV: Owel—E (ID)
+============================================================
+Account: Duong_2003_vip
+Login: Duong_2003_vip:TranNgocDuong
+UID: 308717008
+Username: Duong_2003_vip
+Nickname: Tin nhắn hệ thống
+Email:
+Email Status: Not Verified
+Phone: ****2935
+Country: VN
+Shell Balance: 0
+Account Status: Inactive
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: 2DaemoBubble4
+CODM UID: 308717008
+CODM Region: TH
+CODM Level: 2
+Game Connections:
+- ROV: ʚDươngɞ⁀ᶦᵈᵒᶫ❥ (VN)
+============================================================
+Account: AwakenedRaven03
+Login: AwakenedRaven03:AwakenedRaven_2
+UID: 566515061
+Username: AwakenedRaven03
+Nickname:
+Email: yyu****@gmail.com
+Email Status: Not Verified
+Phone: ****5277
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Naksuuuu..
+CODM UID: 112944588252423
+CODM Region: PH
+CODM Level: 61
+Game Connections:
+- CODM: Naksuuuu.. (PH)
+============================================================
+Account: 01235691370aa
+Login: 01235691370aa:0862243881tangte
+UID: 140082959
+Username: 01235691370aa
+Nickname: รหัสอีเมล
+Email: ome****@hotmail.com
+Email Status: Not Verified
+Phone: ****8136
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: TeJoSeR
+CODM UID: 140082959
+CODM Region: TH
+CODM Level: 35
+Game Connections:
+- ROV: ᴛᴀᴛᴀᴏ.1ᴠꜱ9 (TH)
+- CODM: TeJoSeR (TH)
+- MOONLIGHT BLADE: TaeX98 (TH)
+============================================================
+Account: redboydelta123
+Login: redboydelta123:Mahalkosiya5evs
+UID: 56081760
+Username: redboydelta123
+Nickname: Andso
+Email: enz****@yahoo.com
+Email Status: Verified
+Phone: ****2318
+Country: PH
+Shell Balance: 50
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Düstybun
+CODM UID: 56081760
+CODM Region: PH
+CODM Level: 400
+Game Connections:
+- CODM: Düstybun (PH)
+============================================================
+Account: herobrineplayz12@gmail.com
+Login: herobrineplayz12@gmail.com:Mathew23.
+UID: 545810042
+Username: Boted_ac
+Nickname:
+Email: her****@gmail.com
+Email Status: Not Verified
+Phone: ****5722
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: [fuoQVpXOq9T
+CODM UID: 545810042
+CODM Region: PH
+CODM Level: 49
+Game Connections:
+- CODM: [fuoQVpXOq9T (PH)
+============================================================
+Account: jamesmartincanelas43@gmail.com
+Login: jamesmartincanelas43@gmail.com:jamesmartin2
+UID: 541469454
+Username: jamescanelas2
+Nickname:
+Email: jam****@gmail.com
+Email Status: Not Verified
+Phone: ****0863
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: OPhaze
+CODM UID: 541469454
+CODM Region: PH
+CODM Level: 1
+Game Connections:
+- CODM: OPhaze (PH)
+============================================================
+Account: basssiam2548
+Login: basssiam2548:basskaichiki48
+UID: 533060683
+Username: basssiam2548
+Nickname:
+Email: bas****@gmail.com
+Email Status: Not Verified
+Phone: ****7324
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: MaSaMune
+CODM UID: 533060683
+CODM Region: TH
+CODM Level: 34
+Game Connections:
+- ROV: BxB4ss (TH)
+- CODM: MaSaMune (TH)
+============================================================
+Account: Rematch190
+Login: Rematch190:HackerBitches_20
+UID: 573762739
+Username: Rematch190
+Nickname:
+Email: kai****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [WARNING] Suspicious
+CODM Name: EB Defxult.UG
+CODM UID: 378185077513510
+CODM Region: PH
+CODM Level: 159
+Game Connections:
+- CODM: EB Defxult.UG (PH)
+============================================================
+Account: hotboyhotranhld
+Login: hotboyhotranhld:tranngocduy123
+UID: 194930211
+Username: hotboyhotranhld
+Nickname: Tin nhắn hệ thống
+Email: hot****@yahoo.cim
+Email Status: Not Verified
+Phone: ****5628
+Country: VN
+Shell Balance: 0
+Account Status: Inactive
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: QUOCDUY1818
+CODM UID: 194930211
+CODM Region: ID
+CODM Level: 16
+Game Connections:
+- ROV: AQ10000-04 (VN)
+============================================================
+Account: seenpb1141
+Login: seenpb1141:0929764125Za.
+UID: 579835229
+Username: seenpb1141
+Nickname:
+Email: 631****@atcc.ac.th
+Email Status: Not Verified
+Phone:
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: sixsaintz
+CODM UID: 579835229
+CODM Region: TH
+CODM Level: 18
+Game Connections:
+- CODM: sixsaintz (TH)
+============================================================
+Account: Boted_ac
+Login: Boted_ac:Mathew23.
+UID: 545810042
+Username: Boted_ac
+Nickname:
+Email: her****@gmail.com
+Email Status: Not Verified
+Phone: ****5722
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: [fuoQVpXOq9T
+CODM UID: 545810042
+CODM Region: PH
+CODM Level: 49
+Game Connections:
+- CODM: [fuoQVpXOq9T (PH)
+============================================================
+Account: SayuTzy
+Login: SayuTzy:RinTohsakaaa
+UID: 523176963
+Username: SayuTzy
+Nickname:
+Email: sak****@gmail.com
+Email Status: Verified
+Phone: ****1314
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: getdownsniper~
+CODM UID: 523176963
+CODM Region: ID
+CODM Level: 31
+Game Connections:
+- CODM: getdownsniper~ (ID)
+============================================================
+Account: Jhonpulo
+Login: Jhonpulo:firefire123
+UID: 205508164
+Username: jhonpulo
+Nickname: Lee sin lord88
+Email: efr****@yahoo.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: POKEMON?
+CODM UID: 205508164
+CODM Region: PH
+CODM Level: 9
+Game Connections:
+- CODM: POKEMON? (PH)
+============================================================
+Account: DAWN91243
+Login: DAWN91243:@QQccW91243
+UID: 571806504
+Username: DAWN91243
+Nickname:
+Email: ejd****@gmail.com
+Email Status: Not Verified
+Phone: ****4674
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: [inwel8DmSGw
+CODM UID: 571806504
+CODM Region: PH
+CODM Level: 103
+Game Connections:
+- CODM: [inwel8DmSGw (PH)
+============================================================
+Account: BASSSIAM2548
+Login: BASSSIAM2548:basskaichiki48
+UID: 533060683
+Username: basssiam2548
+Nickname:
+Email: bas****@gmail.com
+Email Status: Not Verified
+Phone: ****7324
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: MaSaMune
+CODM UID: 533060683
+CODM Region: TH
+CODM Level: 34
+Game Connections:
+- ROV: BxB4ss (TH)
+- CODM: MaSaMune (TH)
+============================================================
+Account: BabyPlub
+Login: BabyPlub:PLUBPLUB1
+UID: 356192794
+Username: BabyPlub
+Nickname: PlubZaZa556
+Email:
+Email Status: Not Verified
+Phone: ****1405
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: SP..
+CODM UID: 506135499948194
+CODM Region: TH
+CODM Level: 73
+Game Connections:
+- ROV: น้องแตงแดด999 (TH)
+- CODM: SP.. (TH)
+- SPEED DRIFTERS: อีติ๋ม100ดาว (TH)
+============================================================
+Account: johnjohn05222
+Login: johnjohn05222:johnjohn05
+UID: 239512919
+Username: johnjohn05222
+Nickname: johnjohn05222
+Email: gdg****@yahoo.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: titeèë
+CODM UID: 239512919
+CODM Region: PH
+CODM Level: 27
+Game Connections:
+- CODM: titeèë (PH)
+============================================================
+Account: KrezolTubiera16
+Login: KrezolTubiera16:krezol051607
+UID: 523137769
+Username: KrezolTubiera16
+Nickname: krezol051607
+Email:
+Email Status: Not Verified
+Phone: ****5902
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: CARL1T0
+CODM UID: 2404648599776011
+CODM Region: PH
+CODM Level: 310
+Game Connections:
+- CODM: CARL1T0 (PH)
+============================================================
+Account: krishnamaitriya17@gmail.com
+Login: krishnamaitriya17@gmail.com:ungasan17
+UID: 499477819
+Username: wolf_wrarr
+Nickname:
+Email: kri****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: wolf_wrarr
+CODM UID: 499477819
+CODM Region: ID
+CODM Level: 26
+Game Connections:
+- CODM: wolf_wrarr (ID)
+- AOV: wolf_wrarr (ID)
+============================================================
+Account: Suongpiken
+Login: Suongpiken:Luatrom728
+UID: 437064636
+Username: Suongpiken
+Nickname: Ảnh thằng tù nào v
+Email: cha****@gmail.com
+Email Status: Verified
+Phone: ****3463
+Country: VN
+Shell Balance: 0
+Account Status: Inactive
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: vertk
+CODM UID: 437064636
+CODM Region: PH
+CODM Level: 2
+Game Connections:
+- ROV: BLB•Gà•Rừng (VN)
+============================================================
+Account: gintamaas
+Login: gintamaas:0807943313as
+UID: 191502186
+Username: gintamaas
+Nickname: 𝖅𝖎𝖋𝖙𝖊𝖗
+Email: kee****@gmail.com
+Email Status: Verified
+Phone: ****3313
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: K4XZ
+CODM UID: 191502186
+CODM Region: TH
+CODM Level: 35
+Game Connections:
+- ROV: ˚♰⋆ᴡɪꜰᴇʏ𖦹.ᡣ𐭩˚ (TH)
+- CODM: K4XZ (TH)
+- GARENA UNDAWN: Kimson (TH)
+- SPEED DRIFTERS: CallmeSenpai (TH)
+- MOONLIGHT BLADE: Nayao (TH)
+============================================================
+Account: pjako08
+Login: pjako08:pj09179071401
+UID: 226397888
+Username: pjako08
+Nickname: Hakdog <3
+Email: pat****@yahoo.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: Huutter
+CODM UID: 226397888
+CODM Region: PH
+CODM Level: 13
+Game Connections:
+- CODM: Huutter (PH)
+============================================================
+Account: kssadidas
+Login: kssadidas:nottisx3
+UID: 480105461
+Username: Kssadidas
+Nickname: Nottis
+Email: for****@gmail.com
+Email Status: Verified
+Phone: ****6255
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: N.NuT
+CODM UID: 480105461
+CODM Region: TH
+CODM Level: 27
+Game Connections:
+- ROV: нєιιиǿт (TH)
+- CODM: N.NuT (TH)
+- SPEED DRIFTERS: จoມມารສาຍllบ๊ (TH)
+============================================================
+Account: TeshimaCas
+Login: TeshimaCas:TINY_bubbles11
+UID: 611949353
+Username: TeshimaCas
+Nickname:
+Email: cas****@gmail.com
+Email Status: Verified
+Phone: ****7770
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: KalatKotongAcc
+CODM UID: 738477753231994
+CODM Region: PH
+CODM Level: 400
+Game Connections:
+- CODM: KalatKotongAcc (PH)
+============================================================
+Account: Surveyzupeemtha
+Login: Surveyzupeemtha:thai0984917707
+UID: 269108799
+Username: surveyzupeemtha
+Nickname: surveyzupeemtha
+Email: sur****@gmail.com
+Email Status: Verified
+Phone: ****1248
+Country: TH
+Shell Balance: 7
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | Auth App
+CODM Name: ฮรรมโต
+CODM UID: 269108799
+CODM Region: TH
+CODM Level: 165
+Game Connections:
+- ROV: 'B.1' (TH)
+- CODM: ฮรรมโต (TH)
+- DELTA FORCE: Survey (TH)
+- SPEED DRIFTERS: GrayArea (TH)
+============================================================
+Account: MikkoBadeoqt
+Login: MikkoBadeoqt:Mikko183461
+UID: 529996400
+Username: MikkoBadeoqt
+Nickname:
+Email: bad****@gmail.com
+Email Status: Not Verified
+Phone: ****2364
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: spinach
+CODM UID: 529996400
+CODM Region: PH
+CODM Level: 102
+Game Connections:
+- CODM: spinach    (PH)
+============================================================
+Account: Gyoook
+Login: Gyoook:MewMew@1234
+UID: 628598120
+Username: Gyoook
+Nickname:
+Email: gio****@gmail.com
+Email Status: Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: Gyook
+CODM UID: 628598120
+CODM Region: ID
+CODM Level: 24
+Game Connections:
+- CODM: Gyook (ID)
+============================================================
+Account: 099099pp
+Login: 099099pp:181142mok
+UID: 285346376
+Username: 099099pp
+Nickname: I'м
+Email: zar****@email.com
+Email Status: Not Verified
+Phone: ****5448
+Country: TH
+Shell Balance: 14
+Account Status: Active
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: のつモ_56
+CODM UID: 285346376
+CODM Region: TH
+CODM Level: 350
+Game Connections:
+- ROV: แงวตัวนั้น (TH)
+- CODM: のつモ_56 (TH)
+- DELTA FORCE: nanajithun (TH)
+- GARENA UNDAWN: MakotoROCK (TH)
+============================================================
+Account: shahaha2404@gmail.com
+Login: shahaha2404@gmail.com:Bishan#102092
+UID: 635391193
+Username: Shxfqq
+Nickname:
+Email: sha****@gmail.com
+Email Status: Verified
+Phone:
+Country: SG
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: sshxfiqq
+CODM UID: 635391193
+CODM Region: SG
+CODM Level: 5
+Game Connections:
+- CODM: sshxfiqq (SG)
+============================================================
+Account: justaufaonly@gmail.com
+Login: justaufaonly@gmail.com:Aufa0812#
+UID: 635498110
+Username: JustM0dv
+Nickname:
+Email: jus****@gmail.com
+Email Status: Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: MODV
+CODM UID: 635498110
+CODM Region: ID
+CODM Level: 144
+Game Connections:
+- CODM: MODV (ID)
+- DELTA FORCE: MODV (ID)
+============================================================
+Account: ehnard16
+Login: ehnard16:boboakomaglol16
+UID: 231691252
+Username: ehnard16
+Nickname: HeyJM
+Email: hey****@gmail.com
+Email Status: Verified
+Phone: ****2077
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: EHNAD
+CODM UID: 231691252
+CODM Region: PH
+CODM Level: 70
+Game Connections:
+- CODM: EHNAD (PH)
+============================================================
+Account: andrianrahman1912@gmail.com
+Login: andrianrahman1912@gmail.com:Ber2satu7an*
+UID: 593304290
+Username: beraksek3bon
+Nickname:
+Email: and****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: berak_sekebonn
+CODM UID: 593304290
+CODM Region: ID
+CODM Level: 60
+Game Connections:
+- CODM: berak_sekebonn (ID)
+============================================================
+Account: tazusimp@gmail.com
+Login: tazusimp@gmail.com:-x67LhAACZb-u@-
+UID: 565467971
+Username: TazuSimp
+Nickname:
+Email: taz****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: TazuャKikato
+CODM UID: 565467971
+CODM Region: PH
+CODM Level: 21
+Game Connections:
+- CODM: TazuャKikato (PH)
+============================================================
+Account: 0832173629za
+Login: 0832173629za:za0931526497
+UID: 124462347
+Username: 0832173629za
+Nickname: p4Lo_
+Email: mam****@gmail.com
+Email Status: Verified
+Phone: ****1757
+Country: TH
+Shell Balance: 0
+Account Status: Inactive
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: p4Lo_
+CODM UID: 124462347
+CODM Region: TH
+CODM Level: 2
+Game Connections:
+- ROV: ฟอเรนปาดดุ! (TH)
+- CODM: p4Lo_ (TH)
+- SPEED DRIFTERS: แทนแทนนุช (TH)
+============================================================
+Account: ashtontyler1210
+Login: ashtontyler1210:ashtontyler28
+UID: 552517242
+Username: ashtontyler1210
+Nickname: ynshie.
+Email: ash****@fbaes.manila.edu.ph
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [WARNING] Suspicious
+CODM Name: シ・Ash
+CODM UID: 552517242
+CODM Region: PH
+CODM Level: 61
+Game Connections:
+- CODM: シ・Ash (PH)
+============================================================
+Account: zandydizon
+Login: zandydizon:Memphisburger7
+UID: 508791864
+Username: zandydizon
+Nickname: Z
+Email:
+Email Status: Not Verified
+Phone: ****5065
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA
+CODM Name: AƦÇ ƁºƘ
+CODM UID: 2483769061710844
+CODM Region: PH
+CODM Level: 385
+Game Connections:
+- CODM: AƦÇ ƁºƘ (PH)
+============================================================
+Account: isha_jayne25
+Login: isha_jayne25:#Vince212007
+UID: 521345040
+Username: isha_jayne25
+Nickname: sino ka
+Email: kra****@gmail.com
+Email Status: Verified
+Phone: ****2281
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: [9JJnu4Q3UhL
+CODM UID: 521345040
+CODM Region: PH
+CODM Level: 397
+Game Connections:
+- CODM: [9JJnu4Q3UhL (PH)
+============================================================
+Account: VIP_ATHIP
+Login: VIP_ATHIP:@Ball888
+UID: 569288457
+Username: VIP_ATHIP
+Nickname:
+Email: hsi****@ball.com
+Email Status: Not Verified
+Phone: ****7267
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: โปรโหด2
+CODM UID: 569288457
+CODM Region: TH
+CODM Level: 280
+Game Connections:
+- ROV: VIP_ATHIP (TH)
+- CODM: โปรโหด2 (TH)
+- GARENA UNDAWN: XCwhite (TH)
+============================================================
+Account: ScytheAxe
+Login: ScytheAxe:8rth123pqr
+UID: 511767420
+Username: scytheaxe
+Nickname: Axe
+Email:
+Email Status: Not Verified
+Phone: ****3347
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: BLCK-Groozy°
+CODM UID: 511767420
+CODM Region: ID
+CODM Level: 213
+Game Connections:
+- CODM: BLCK-Groozy° (ID)
+- DELTA FORCE: Groozy (ID)
+============================================================
+Account: asdfbgh142
+Login: asdfbgh142:masterfu1234
+UID: 426481844
+Username: asdfbgh142
+Nickname: asdfbgh142
+Email: dik****@gmail.com
+Email Status: Not Verified
+Phone: ****1091
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | Auth App
+CODM Name: [eBeeoSIJu2n
+CODM UID: 426481844
+CODM Region: ID
+CODM Level: 67
+Game Connections:
+- CODM: [eBeeoSIJu2n (ID)
+- GARENA UNDAWN: Syamm (ID)
+============================================================
+Account: VIGOROV.COM
+Login: VIGOROV.COM:Vigorov062189.
+UID: 367961197
+Username: VIGOROV.COM
+Nickname: Thanawit Pakkasan
+Email: tha****@gmail.com
+Email Status: Verified
+Phone: ****2148
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: เยรสโหด
+CODM UID: 3322808287975712
+CODM Region: TH
+CODM Level: 10
+Game Connections:
+- ROV: กูมาเพื่อบุกเบิก!!! (TH)
+- CODM: เยรสโหด (TH)
+- SPEED DRIFTERS: ผมมันไก่กา (TH)
+============================================================
+Account: molono.s763
+Login: molono.s763:01112006@Ht
+UID: 574171255
+Username: molono.s763
+Nickname: I’m  PT
+Email: pha****@gmail.com
+Email Status: Verified
+Phone: ****9209
+Country: VN
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: no.271206
+CODM UID: 574171255
+CODM Region: HK
+CODM Level: 2
+Game Connections:
+- ROV: TuiKỳCục43766283 (VN)
+============================================================
+Account: AwakenedRaven03
+Login: AwakenedRaven03:AwakenedRaven_2
+UID: 566515061
+Username: AwakenedRaven03
+Nickname:
+Email: yyu****@gmail.com
+Email Status: Not Verified
+Phone: ****5277
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Naksuuuu..
+CODM UID: 112944588252423
+CODM Region: PH
+CODM Level: 61
+Game Connections:
+- CODM: Naksuuuu.. (PH)
+============================================================
+Account: faitmanboomzasr
+Login: faitmanboomzasr:Gigga001.
+UID: 258655391
+Username: faitmanboomzasr
+Nickname: Lay
+Email: wan****@gmail.com
+Email Status: Verified
+Phone: ****5209
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: Best1599
+CODM UID: 258655391
+CODM Region: TH
+CODM Level: 2
+Game Connections:
+- ROV: Best159 (TH)
+- CODM: Best1599 (TH)
+- SPEED DRIFTERS: Best159 (TH)
+============================================================
+Account: Wibisonk
+Login: Wibisonk:Ndwb$n523
+UID: 481413987
+Username: Wibisonk
+Nickname:
+Email: san****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: GG`Santuy
+CODM UID: 481413987
+CODM Region: ID
+CODM Level: 79
+Game Connections:
+- CODM: GG`Santuy (ID)
+============================================================
+Account: Gyoook
+Login: Gyoook:MewMew@1234
+UID: 628598120
+Username: Gyoook
+Nickname:
+Email: gio****@gmail.com
+Email Status: Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: Gyook
+CODM UID: 628598120
+CODM Region: ID
+CODM Level: 24
+Game Connections:
+- CODM: Gyook (ID)
+============================================================
+Account: HelloItsZon
+Login: HelloItsZon:2002KiNg
+UID: 539755970
+Username: HelloItsZon
+Nickname:
+Email: zon****@gmail.com
+Email Status: Not Verified
+Phone: ****0887
+Country: MY
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: zonnッ
+CODM UID: 539755970
+CODM Region: MY
+CODM Level: 3
+Game Connections:
+- CODM: zonnッ (MY)
+============================================================
+Account: k1la16
+Login: k1la16:Nonoy2008!
+UID: 534179627
+Username: k1la16
+Nickname:
+Email: zan****@gmail.com
+Email Status: Verified
+Phone: ****3049
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: TWƩ Bogdan.
+CODM UID: 842764789452969
+CODM Region: PH
+CODM Level: 400
+Game Connections:
+- CODM: TWƩ Bogdan. (PH)
+============================================================
+Account: ashlyn_mikasa
+Login: ashlyn_mikasa:mikasa09
+UID: 542043392
+Username: ashlyn_mikasa
+Nickname:
+Email: ash****@gmail.com
+Email Status: Not Verified
+Phone: ****1271
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: CRAZYASHII
+CODM UID: 178729640541266
+CODM Region: PH
+CODM Level: 399
+Game Connections:
+- CODM: CRAZYASHII (PH)
+============================================================
+Account: riyanpointblank@gmail.com
+Login: riyanpointblank@gmail.com:Riyanyevi28
+UID: 484140520
+Username: prnusta28
+Nickname:
+Email: riy****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: PRINUSTA`Rymik
+CODM UID: 484140520
+CODM Region: ID
+CODM Level: 42
+Game Connections:
+- CODM: PRINUSTA`Rymik (ID)
+- AOV: prnusta (ID)
+============================================================
+Account: benggoal
+Login: benggoal:Positive08
+UID: 331852040
+Username: benggoal
+Nickname: beng
+Email: imm****@gmail.com
+Email Status: Verified
+Phone: ****7609
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | Auth App | [WARNING] Suspicious
+CODM Name: Plumbob
+CODM UID: 331852040
+CODM Region: ID
+CODM Level: 2
+Game Connections:
+- CODM: Plumbob (ID)
+- AOV: Plumbob (ID)
+============================================================
+Account: VIP_ATHIP
+Login: VIP_ATHIP:@Ball888
+UID: 569288457
+Username: VIP_ATHIP
+Nickname:
+Email: hsi****@ball.com
+Email Status: Not Verified
+Phone: ****7267
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: โปรโหด2
+CODM UID: 569288457
+CODM Region: TH
+CODM Level: 280
+Game Connections:
+- ROV: VIP_ATHIP (TH)
+- CODM: โปรโหด2 (TH)
+- GARENA UNDAWN: XCwhite (TH)
+============================================================
+Account: Mickycha
+Login: Mickycha:Micky_1515521
+UID: 629560482
+Username: Mickycha
+Nickname:
+Email: mix****@gmail.com
+Email Status: Verified
+Phone: ****4147
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: OzoneNs
+CODM UID: 734873948302846
+CODM Region: TH
+CODM Level: 11
+Game Connections:
+- ROV: ʟᴏʀᴅᴍɪᴄᴋʏ (TH)
+- CODM: OzoneNs (TH)
+============================================================
+Account: baby.razz00@gmail.com
+Login: baby.razz00@gmail.com:razz0605
+UID: 542697692
+Username: jk_jeon00
+Nickname:
+Email: bab****@gmail.com
+Email Status: Verified
+Phone: ****8505
+Country: MY
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: [agAJZnW6PUu
+CODM UID: 542697692
+CODM Region: MY
+CODM Level: 350
+Game Connections:
+- CODM: [agAJZnW6PUu (MY)
+============================================================
+Account: I-EMINEM-I
+Login: I-EMINEM-I:fernandezfrance1
+UID: 523835978
+Username: I-EMINEM-I
+Nickname:
+Email: fer****@gmail.com
+Email Status: Not Verified
+Phone: ****8268
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: DEXl.
+CODM UID: 523835978
+CODM Region: PH
+CODM Level: 57
+Game Connections:
+- CODM: DEXl. (PH)
+============================================================
+Account: Freyaaah
+Login: Freyaaah:Freyda27
+UID: 537239305
+Username: Freyaaah
+Nickname:
+Email: jus****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: ImThatTemplar
+CODM UID: 537239305
+CODM Region: PH
+CODM Level: 27
+Game Connections:
+- CODM: ImThatTemplar (PH)
+============================================================
+Account: MikkoBadeoqt
+Login: MikkoBadeoqt:Mikko183461
+UID: 529996400
+Username: MikkoBadeoqt
+Nickname:
+Email: bad****@gmail.com
+Email Status: Not Verified
+Phone: ****2364
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: spinach
+CODM UID: 529996400
+CODM Region: PH
+CODM Level: 102
+Game Connections:
+- CODM: spinach    (PH)
+============================================================
+Account: hamaloet
+Login: hamaloet:zeroper45
+UID: 235756351
+Username: hamaloet
+Nickname:
+Email: ham****@gmail.com
+Email Status: Verified
+Phone:
+Country: ID
+Shell Balance: 25
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [WARNING] Suspicious
+CODM Name: elBarde
+CODM UID: 235756351
+CODM Region: ID
+CODM Level: 82
+Game Connections:
+- CODM: elBarde (ID)
+- AOV: Elcate (ID)
+============================================================
+Account: aomnanza2544
+Login: aomnanza2544:0625709801az
+UID: 336678982
+Username: aomnanza2544
+Nickname: achira_dm
+Email:
+Email Status: Not Verified
+Phone: ****6512
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: POSIDON_TH
+CODM UID: 164524528027196
+CODM Region: TH
+CODM Level: 65
+Game Connections:
+- ROV: Armโหดจัด (TH)
+- CODM: POSIDON_TH (TH)
+- SPEED DRIFTERS: BAYONG=NP (TH)
+============================================================
+Account: ffigosembiring@gmail.com
+Login: ffigosembiring@gmail.com:fhariel2008
+UID: 518827421
+Username: SayaIkanJuga
+Nickname:
+Email: ffi****@gmail.com
+Email Status: Not Verified
+Phone: ****1868
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: SayaIkanJuga
+CODM UID: 518827421
+CODM Region: ID
+CODM Level: 7
+Game Connections:
+- CODM: SayaIkanJuga (ID)
+============================================================
+Account: princeazarcon15
+Login: princeazarcon15:Princejustine15
+UID: 533570081
+Username: princeazarcon15
+Nickname:
+Email: pri****@gmail.com
+Email Status: Not Verified
+Phone: ****4940
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: IG@AmiriXBaby
+CODM UID: 825774097913293
+CODM Region: PH
+CODM Level: 150
+Game Connections:
+- CODM: IG@AmiriXBaby (PH)
+============================================================
+Account: erereman
+Login: erereman:Malek230506@
+UID: 468730342
+Username: erereman
+Nickname:
+Email: dam****@gmail.com
+Email Status: Not Verified
+Phone: ****6826
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name:  Whyyyy???
+CODM UID: 468730342
+CODM Region: ID
+CODM Level: 172
+Game Connections:
+- CODM:  Whyyyy??? (ID)
+- AOV: LUCIFERx (ID)
+============================================================
+Account: leomitsiguke018
+Login: leomitsiguke018:LockonStratos02
+UID: 132516346
+Username: leomitsiguke018
+Nickname: V
+Email: leo****@yahoo.com
+Email Status: Verified
+Phone: ****3711
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Mitsiguke
+CODM UID: 132516346
+CODM Region: PH
+CODM Level: 25
+Game Connections:
+- CODM: Mitsiguke (PH)
+============================================================
+Account: Bassing27
+Login: Bassing27:0629878335mmm
+UID: 534180791
+Username: Bassing27
+Nickname:
+Email: air****@gmail.com
+Email Status: Verified
+Phone: ****0132
+Country: TH
+Shell Balance: 0
+Account Status: Inactive
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: โกงละ
+CODM UID: 534180791
+CODM Region: TH
+CODM Level: 2
+Game Connections:
+- ROV: 1Ksx (TH)
+- CODM: โกงละ (TH)
+- SPEED DRIFTERS: Bassing27 (TH)
+============================================================
+Account: ZENCO_45
+Login: ZENCO_45:Frontal12345_
+UID: 617406219
+Username: ZENCO_45
+Nickname:
+Email: why****@gmail.com
+Email Status: Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: Zen.co23
+CODM UID: 617406219
+CODM Region: ID
+CODM Level: 72
+Game Connections:
+- CODM: Zen.co23 (ID)
+============================================================
+Account: Syahsuha
+Login: Syahsuha:avenged7x31
+UID: 522065098
+Username: Syahsuha
+Nickname:
+Email: m3l****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: MY
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: SYAHSUHA
+CODM UID: 522065098
+CODM Region: MY
+CODM Level: 12
+Game Connections:
+- CODM: SYAHSUHA (MY)
+============================================================
+Account: patdiffie_29
+Login: patdiffie_29:olegario29
+UID: 543232139
+Username: patdiffie_29
+Nickname:
+Email: pca****@yahoo.com
+Email Status: Not Verified
+Phone: ****2440
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Tyrant Fel
+CODM UID: 554341521998070
+CODM Region: PH
+CODM Level: 400
+Game Connections:
+- CODM: Tyrant Fel (PH)
+============================================================
+Account: K1ll3r6952
+Login: K1ll3r6952:Kymsandpinkyz5
+UID: 537935008
+Username: K1ll3r6952
+Nickname:
+Email: kym****@gmail.com
+Email Status: Not Verified
+Phone: ****5543
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: SWAK_SARAP
+CODM UID: 2359901754118210
+CODM Region: PH
+CODM Level: 164
+Game Connections:
+- CODM: SWAK_SARAP (PH)
+============================================================
+Account: Marthajay
+Login: Marthajay:Martha00199.
+UID: 623380127
+Username: Marthajay
+Nickname:
+Email: mar****@gmail.com
+Email Status: Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: Marthajay
+CODM UID: 623380127
+CODM Region: ID
+CODM Level: 22
+Game Connections:
+- CODM: Marthajay (ID)
+============================================================
+Account: pjako08
+Login: pjako08:pj09179071401
+UID: 226397888
+Username: pjako08
+Nickname: Hakdog <3
+Email: pat****@yahoo.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: Huutter
+CODM UID: 226397888
+CODM Region: PH
+CODM Level: 13
+Game Connections:
+- CODM: Huutter (PH)
+============================================================
+Account: HANK20110916
+Login: HANK20110916:Hank20110816)
+UID: 637462206
+Username: HANK20110916
+Nickname:
+Email: yz0****@gmail.com
+Email Status: Verified
+Phone: ****1568
+Country: TW
+Shell Balance: 56
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: 吳丞至我的狗
+CODM UID: 637462206
+CODM Region: TW
+CODM Level: 16
+Game Connections:
+- CODM: 吳丞至我的狗 (TW)
+============================================================
+Account: ScytheAxe
+Login: ScytheAxe:8rth123pqr
+UID: 511767420
+Username: scytheaxe
+Nickname: Axe
+Email:
+Email Status: Not Verified
+Phone: ****3347
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: BLCK-Groozy°
+CODM UID: 511767420
+CODM Region: ID
+CODM Level: 213
+Game Connections:
+- CODM: BLCK-Groozy° (ID)
+- DELTA FORCE: Groozy (ID)
+============================================================
+Account: HANK20110916
+Login: HANK20110916:Hank20110816)
+UID: 637462206
+Username: HANK20110916
+Nickname:
+Email: yz0****@gmail.com
+Email Status: Verified
+Phone: ****1568
+Country: TW
+Shell Balance: 56
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: 吳丞至我的狗
+CODM UID: 637462206
+CODM Region: TW
+CODM Level: 16
+Game Connections:
+- CODM: 吳丞至我的狗 (TW)
+============================================================
+Account: gim741
+Login: gim741:0964545627g
+UID: 178068125
+Username: gim741
+Nickname: ❤★*❤GIM❤*★❤
+Email: sup****@icloud.com
+Email Status: Verified
+Phone: ****7588
+Country: SG
+Shell Balance: 3
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | Auth App | [WARNING] Suspicious
+CODM Name: Dulex56
+CODM UID: 178068125
+CODM Region: TH
+CODM Level: 10
+Game Connections:
+- ROV: ★*GIM*★ (SG)
+============================================================
+Account: likemyshadow
+Login: likemyshadow:ShadowBeLike
+UID: 257039323
+Username: likemyshadow
+Nickname: Haruuu
+Email: lik****@yahoo.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (ID Card)
+Security Status: [SUCCESS] Normal
+CODM Name: .Astro.
+CODM UID: 257039323
+CODM Region: PH
+CODM Level: 37
+Game Connections:
+- CODM: .Astro. (PH)
+============================================================
+Account: GojoSaturo20
+Login: GojoSaturo20:Gojosaturo1520
+UID: 545663427
+Username: GojoSaturo20
+Nickname:
+Email: pri****@gmail.com
+Email Status: Not Verified
+Phone: ****3742
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: DOLORESSS
+CODM UID: 545663427
+CODM Region: PH
+CODM Level: 43
+Game Connections:
+- CODM: DOLORESSS (PH)
+============================================================
+Account: fren_with_an_s
+Login: fren_with_an_s:lamayo123
+UID: 363295777
+Username: Fren_With_An_S
+Nickname: phlox
+Email: jes****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: Valkai
+CODM UID: 363295777
+CODM Region: PH
+CODM Level: 3
+Game Connections:
+- CODM: Valkai (PH)
+============================================================
+Account: Kezyryotaa
+Login: Kezyryotaa:Soulgaming@,#22
+UID: 624306335
+Username: Kezyryotaa
+Nickname: paasa daw e pinabayaan mo
+Email: sou****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, ID Card)
+Security Status: [WARNING] Suspicious
+CODM Name: [4sxOOHMmehk
+CODM UID: 166481528465113
+CODM Region: PH
+CODM Level: 350
+Game Connections:
+- CODM: [4sxOOHMmehk (PH)
+============================================================
+Account: austinmark1355@gmail.com
+Login: austinmark1355@gmail.com:Collene27
+UID: 522403386
+Username: ImNotSnow
+Nickname:
+Email: aus****@gmail.com
+Email Status: Verified
+Phone: ****2954
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: Ughdam
+CODM UID: 133660772098726
+CODM Region: PH
+CODM Level: 141
+Game Connections:
+- CODM: Ughdam (PH)
+============================================================
+Account: gim741
+Login: gim741:0964545627g
+UID: 178068125
+Username: gim741
+Nickname: ❤★*❤GIM❤*★❤
+Email: sup****@icloud.com
+Email Status: Verified
+Phone: ****7588
+Country: SG
+Shell Balance: 3
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | Auth App | [WARNING] Suspicious
+CODM Name: Dulex56
+CODM UID: 178068125
+CODM Region: TH
+CODM Level: 10
+Game Connections:
+- ROV: ★*GIM*★ (SG)
+============================================================
+Account: mib5550
+Login: mib5550:123456789za0
+UID: 303052957
+Username: mib5550
+Nickname: Yuri​XDDDD
+Email: dsi****@jijghreil.iocm
+Email Status: Not Verified
+Phone: ****4143
+Country: TH
+Shell Balance: 4
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: Mika-san.
+CODM UID: 303052957
+CODM Region: TH
+CODM Level: 13
+Game Connections:
+- ROV: ʙᴇ_ꜱᴀʏᴏᴋᴏ࿐ (TH)
+- CODM: Mika-san. (TH)
+- DELTA FORCE: BE×SAYOKO (TH)
+- SPEED DRIFTERS: Chaowaratl (TH)
+============================================================
+Account: karlais111007
+Login: karlais111007:sixteen0703
+UID: 530764960
+Username: karlais111007
+Nickname: karlqt4ever
+Email: kaj****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [WARNING] Suspicious
+CODM Name: VV丨Banana.
+CODM UID: 972491853099942
+CODM Region: PH
+CODM Level: 177
+Game Connections:
+- CODM: VV丨Banana. (PH)
+============================================================
+Account: LitThus
+Login: LitThus:Riddick@136
+UID: 636752031
+Username: LitThus
+Nickname:
+Email: ebr****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: LitThus
+CODM UID: 636752031
+CODM Region: PH
+CODM Level: 17
+Game Connections:
+- CODM: LitThus (PH)
+============================================================
+Account: mpimeen
+Login: mpimeen:Banana155623-
+UID: 324798335
+Username: mpimeen
+Nickname: MIEENO
+Email: hew****@gmail.com
+Email Status: Verified
+Phone: ****5606
+Country: TH
+Shell Balance: 7
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: mpimeen
+CODM UID: 324798335
+CODM Region: TH
+CODM Level: 86
+Game Connections:
+- ROV: Meen Thanakrit (TH)
+- CODM: mpimeen (TH)
+============================================================
+Account: nutandpookao
+Login: nutandpookao:0973576857bleza
+UID: 385917146
+Username: nutandpookao
+Nickname: nutandpookhao
+Email: 498****@mvsk.ac.th
+Email Status: Verified
+Phone: ****6857
+Country: TH
+Shell Balance: 14
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: nutandpookao
+CODM UID: 385917146
+CODM Region: TH
+CODM Level: 1
+Game Connections:
+- ROV: nutandpookao (TH)
+- CODM: nutandpookao (TH)
+============================================================
+Account: william120908
+Login: william120908:horas120908
+UID: 477776016
+Username: william120908
+Nickname:
+Email: hot****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: william120908
+CODM UID: 477776016
+CODM Region: ID
+CODM Level: 8
+Game Connections:
+- CODM: william120908 (ID)
+============================================================
+Account: Santostristann
+Login: Santostristann:Tristan102005
+UID: 517062619
+Username: santostristann
+Nickname:
+Email: tri****@icloud.com
+Email Status: Verified
+Phone: ****8257
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: [8 ir7GQYd7Y
+CODM UID: 517062619
+CODM Region: PH
+CODM Level: 400
+Game Connections:
+- CODM: [8+ir7GQYd7Y (PH)
+- GARENA UNDAWN: Milky (PH)
+- AOV: Mîlxy (PH)
+============================================================
+Account: beraksek3bon
+Login: beraksek3bon:Ber2satu7an*
+UID: 593304290
+Username: beraksek3bon
+Nickname:
+Email: and****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: berak_sekebonn
+CODM UID: 593304290
+CODM Region: ID
+CODM Level: 60
+Game Connections:
+- CODM: berak_sekebonn (ID)
+============================================================
+Account: uer2547
+Login: uer2547:seeny2547
+UID: 350901752
+Username: uer2547
+Nickname: sss
+Email: yua****@gmail.com
+Email Status: Verified
+Phone: ****2584
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: uer2547
+CODM UID: 350901752
+CODM Region: TH
+CODM Level: 64
+Game Connections:
+- ROV: ᴡᴇᴇᴋᴇɴᴅ. (TH)
+- CODM: uer2547 (TH)
+- GARENA UNDAWN: Seen (TH)
+============================================================
+Account: TeshimaCas
+Login: TeshimaCas:TINY_bubbles11
+UID: 611949353
+Username: TeshimaCas
+Nickname:
+Email: cas****@gmail.com
+Email Status: Verified
+Phone: ****7770
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: KalatKotongAcc
+CODM UID: 738477753231994
+CODM Region: PH
+CODM Level: 400
+============================================================
+Account: johnvonmanlangit0@gmail.com
+Login: johnvonmanlangit0@gmail.com:Frinz123@
+UID: 638811648
+Username: Bloodhounddk
+Nickname:
+Email: joh****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: 집요한
+CODM UID: 638811648
+CODM Region: PH
+CODM Level: 47
+Game Connections:
+- CODM: Dreamybuld (PH)
+============================================================
+Account: mib5550
+Login: mib5550:123456789za0
+UID: 303052957
+Username: mib5550
+Nickname: Yuri​XDDDD
+Email: dsi****@jijghreil.iocm
+Email Status: Not Verified
+Phone: ****4143
+Country: TH
+Shell Balance: 4
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: Mika-san.
+CODM UID: 303052957
+CODM Region: TH
+CODM Level: 13
+Game Connections:
+- ROV: ʙᴇ_ꜱᴀʏᴏᴋᴏ࿐ (TH)
+- CODM: Mika-san. (TH)
+- DELTA FORCE: BE×SAYOKO (TH)
+============================================================
+Account: partyninew0123
+Login: partyninew0123:iPartyninew0123
+UID: 202927319
+Username: partyninew0123
+Nickname: AFs ParTy
+Email: par****@outlook.com
+Email Status: Verified
+Phone: ****9590
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | Auth App
+CODM Name: iParTy
+CODM UID: 202927319
+CODM Region: TH
+CODM Level: 32
+============================================================
+Account: zkzkzssks
+Login: zkzkzssks:123987651+qm
+UID: 546091465
+Username: zkzkzssks
+Nickname:
+Email: kan****@gmail.com
+Email Status: Not Verified
+Phone: ****0319
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: zkzkzssks
+CODM UID: 546091465
+CODM Region: TH
+CODM Level: 20
+Game Connections:
+- ROV: zkzkzssks (TH)
+- CODM: zkzkzssks (TH)
+============================================================
+Account: ProDiozx
+Login: ProDiozx:thereddevil22
+UID: 455299090
+Username: Prodiozx
+Nickname: Prodiozx
+Email: naj****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: US
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: LanA
+CODM UID: 455299090
+CODM Region: ID
+CODM Level: 38
+Game Connections:
+- AOV: ProDiozx (PH)
+============================================================
+Account: fahatmc555
+Login: fahatmc555:first1530
+UID: 247561296
+Username: fahatmc555
+Nickname: ฟาฮัท
+Email: kaw****@gmail.com
+Email Status: Verified
+Phone: ****9934
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: ดูแล้วจ
+CODM UID: 1320957631415306
+CODM Region: TH
+CODM Level: 229
+Game Connections:
+- ROV: ทีเด็ดบางรำแซะ (TH)
+- CODM: ดูแล้วจ (TH)
+============================================================
+Account: kenplayz123
+Login: kenplayz123:mar42007
+UID: 472859149
+Username: kenplayz123
+Nickname: kazusaku
+Email: gam****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, ID Card)
+Security Status: [WARNING] Suspicious
+CODM Name: ritva
+CODM UID: 472859149
+CODM Region: PH
+CODM Level: 374
+Game Connections:
+- CODM: umibozo (PH)
+============================================================
+Account: AndreeySia
+Login: AndreeySia:Andri082802
+UID: 528125555
+Username: AndreeySia
+Nickname: Andreey
+Email:
+Email Status: Not Verified
+Phone: ****6126
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA
+CODM Name: KYÔTØ
+CODM UID: 1181414092048847
+CODM Region: PH
+CODM Level: 400
+Game Connections:
+- CODM: KYÔTØ (PH)
+============================================================
+Account: Tunaako05
+Login: Tunaako05:TUNAAKO1245
+UID: 520595682
+Username: tunaako05
+Nickname: Paradox
+Email: ste****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, ID Card)
+Security Status: [SUCCESS] Normal
+CODM Name: Natoytzzzy
+CODM UID: 520595682
+CODM Region: PH
+CODM Level: 353
+Game Connections:
+- CODM: Natoytzzzy (PH)
+- DELTA FORCE: Mitchikatsunur (PH)
+============================================================
+Account: Tazu08
+Login: Tazu08:Dela_Cruz08
+UID: 600287126
+Username: Tazu08
+Nickname:
+Email: ban****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: 大木板金塗装工
+CODM UID: 600287126
+CODM Region: PH
+CODM Level: 2
+Game Connections:
+- CODM: 大木板金塗装工 (PH)
+============================================================
+Account: rakitoong
+Login: rakitoong:oong0840668029
+UID: 24192799
+Username: rakitoong
+Nickname: Mcdonald's
+Email: o.o****@hotmail.com
+Email Status: Verified
+Phone:
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: สามห้า
+CODM UID: 24192799
+CODM Region: TH
+CODM Level: 3
+============================================================
+Account: nglawaklucu
+Login: nglawaklucu:Nglawaklucu
+UID: 517840467
+Username: nglawaklucu
+Nickname:
+Email: ant****@gmail.com
+Email Status: Not Verified
+Phone: ****0906
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: nglawaklucu
+CODM UID: 517840467
+CODM Region: ID
+CODM Level: 24
+Game Connections:
+- CODM: nglawaklucu (ID)
+============================================================
+Account: tw.ponyo
+Login: tw.ponyo:@Paulroa828
+UID: 518684659
+Username: Tw.Ponyo
+Nickname:
+Email: pau****@gmail.com
+Email Status: Verified
+Phone: ****8738
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA | Auth App
+CODM Name: [35r5aDM0uu2
+CODM UID: 2401195963524240
+CODM Region: PH
+CODM Level: 370
+Game Connections:
+- CODM: [35r5aDM0uu2 (PH)
+============================================================
+Account: TTPM.LOLBUZZ
+Login: TTPM.LOLBUZZ:Matt30..
+UID: 517076119
+Username: TTPM.LOLBUZZ
+Nickname: Tammat
+Email: sam****@gmail.com
+Email Status: Not Verified
+Phone: ****9976
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: OTG・Drei WC
+CODM UID: 445178733019628
+CODM Region: PH
+CODM Level: 229
+Game Connections:
+- CODM: OTG・Drei WC (PH)
+- GARENA UNDAWN: Milky (PH)
+- AOV: Mîlxy (PH)
+============================================================
+Account: 123454321new
+Login: 123454321new:123454321n
+UID: 498439203
+Username: 123454321new
+Nickname:
+Email: gho****@gmail.com
+Email Status: Verified
+Phone: ****7295
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: DACK_KIT
+CODM UID: 498439203
+CODM Region: TH
+CODM Level: 72
+Game Connections:
+- ROV: JOM 'KUB (TH)
+- CODM: Munin96 (TH)
+============================================================
+Account: 123454321new
+Login: 123454321new:123454321n
+UID: 498439203
+Username: 123454321new
+Nickname:
+Email: gho****@gmail.com
+Email Status: Verified
+Phone: ****7295
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: DACK_KIT
+CODM UID: 498439203
+CODM Region: TH
+CODM Level: 72
+Game Connections:
+- ROV: ˣᵏˡᵗ_ˢ (TH)
+- CODM: DACK_KIT (TH)
+============================================================
+Account: imjustin1355@gmail.com
+Login: imjustin1355@gmail.com:Collene27
+UID: 526226277
+Username: RedVelvetEndora
+Nickname:
+Email: imj****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: RedVelvet死
+CODM UID: 526226277
+CODM Region: PH
+CODM Level: 36
+============================================================
+Account: Nutdtk
+Login: Nutdtk:nutdtk1234
+UID: 203816725
+Username: nutdtk
+Nickname: RTX6090Ti
+Email: noo****@gmail.com
+Email Status: Verified
+Phone:
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, ID Card)
+Security Status: [WARNING] Suspicious
+CODM Name: EL丨gelay
+CODM UID: 203816725
+CODM Region: TH
+CODM Level: 123
+============================================================
+Account: arildayogiss
+Login: arildayogiss:yogis123
+UID: 538406334
+Username: arildayogiss
+Nickname:
+Email: set****@gmail.com
+Email Status: Not Verified
+Phone: ****2934
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: Yuro`
+CODM UID: 538406334
+CODM Region: ID
+CODM Level: 31
+Game Connections:
+- CODM: Yuro` (ID)
+============================================================
+Account: zazapiraom
+Login: zazapiraom:zazapiraom2512535
+UID: 97715569
+Username: zazapiraom
+Nickname:
+Email: zaz****@hotmail.com
+Email Status: Not Verified
+Phone: ****5956
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: JapanZa007
+CODM UID: 97715569
+CODM Region: TH
+CODM Level: 7
+Game Connections:
+- ROV: qvp._... (TH)
+- CODM: JapanZa007 (TH)
+============================================================
+Account: Markathano
+Login: Markathano:Imabouttocome_99
+UID: 633171459
+Username: Markathano
+Nickname:
+Email: liz****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: HYPER_JAMES-29
+CODM UID: 633171459
+CODM Region: PH
+CODM Level: 32
+Game Connections:
+- CODM: Mitsiguke (PH)
+============================================================
+Account: Yuan_Mark4323
+Login: Yuan_Mark4323:YuanMark123@!
+UID: 636704524
+Username: Yuan_mark4323
+Nickname:
+Email: mar****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: Yuan_mark4323
+CODM UID: 636704524
+CODM Region: PH
+CODM Level: 5
+Game Connections:
+- CODM: Yuan_mark4323 (PH)
+============================================================
+Account: ton075449322
+Login: ton075449322:0950599184Mm.
+UID: 304092900
+Username: ton075449322
+Nickname: รหัสหลักpoon
+Email: man****@gmail.com
+Email Status: Verified
+Phone: ****0028
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: จามาเเจ
+CODM UID: 287717431011098
+CODM Region: TH
+CODM Level: 14
+============================================================
+Account: ton075449322
+Login: ton075449322:0950599184Mm.
+UID: 304092900
+Username: ton075449322
+Nickname: รหัสหลักpoon
+Email: man****@gmail.com
+Email Status: Verified
+Phone: ****0028
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: จามาเเจ
+CODM UID: 287717431011098
+CODM Region: TH
+CODM Level: 14
+Game Connections:
+- ROV: Saya(1) (TH)
+- CODM: จามาเเจ (TH)
+============================================================
+Account: immanuelnobel08@gmail.com
+Login: immanuelnobel08@gmail.com:Positive08
+UID: 331852040
+Username: benggoal
+Nickname: beng
+Email: imm****@gmail.com
+Email Status: Verified
+Phone: ****7609
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | Auth App | [WARNING] Suspicious
+CODM Name: Plumbob
+CODM UID: 331852040
+CODM Region: ID
+CODM Level: 2
+Game Connections:
+- CODM:  Whyyyy??? (ID)
+- AOV: LUCIFERx (ID)
+============================================================
+Account: jason18777
+Login: jason18777:sabaterpascual02
+UID: 530555579
+Username: Jason18777
+Nickname: BigBoss
+Email:
+Email Status: Not Verified
+Phone: ****8187
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: LFT PLIOK
+CODM UID: 871801613336117
+CODM Region: PH
+CODM Level: 336
+Game Connections:
+- CODM: LFT PLIOK (PH)
+- AOV: MathioxGwapit (PH)
+============================================================
+Account: rifqiachyar
+Login: rifqiachyar:rifqi123
+UID: 299202999
+Username: RifqiAchyar
+Nickname:
+Email: rif****@gmail.com
+Email Status: Not Verified
+Phone: ****6990
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: RifqiAchyar
+CODM UID: 299202999
+CODM Region: ID
+CODM Level: 39
+Game Connections:
+- CODM: RifqiAchyar (ID)
+============================================================
+Account: forgetmenotex2@gmail.com
+Login: forgetmenotex2@gmail.com:nottisx3
+UID: 377674458
+Username: tetaekung007
+Nickname: Nottis
+Email: for****@gmail.com
+Email Status: Verified
+Phone:
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: tetaekung007
+CODM UID: 377674458
+CODM Region: TH
+CODM Level: 31
+============================================================
+Account: polapol.boy02@gmail.com
+Login: polapol.boy02@gmail.com:0929764125Za.
+UID: 565948188
+Username: kiryu747
+Nickname: Stuck with u
+Email: pol****@gmail.com
+Email Status: Not Verified
+Phone: ****8048
+Country: TH
+Shell Balance: 7
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: staywithu
+CODM UID: 565948188
+CODM Region: TH
+CODM Level: 37
+============================================================
+Account: phon1106
+Login: phon1106:Burin0947790449
+UID: 144564335
+Username: phon1106
+Nickname:
+Email: les****@gmail.com
+Email Status: Not Verified
+Phone: ****0449
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: phon1106
+CODM UID: 144564335
+CODM Region: TH
+CODM Level: 10
+============================================================
+Account: AwakenedRaven01
+Login: AwakenedRaven01:RavenCanKillYou
+UID: 564414012
+Username: AwakenedRaven01
+Nickname:
+Email: bol****@gmail.com
+Email Status: Verified
+Phone: ****5277
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: [86fBIJge8CY
+CODM UID: 117388220733895
+CODM Region: PH
+CODM Level: 110
+Game Connections:
+- CODM: ChrisKylé (PH)
+============================================================
+Account: asdfbgh142
+Login: asdfbgh142:masterfu1234
+UID: 426481844
+Username: asdfbgh142
+Nickname: asdfbgh142
+Email: dik****@gmail.com
+Email Status: Not Verified
+Phone: ****1091
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | Auth App
+CODM Name: [eBeeoSIJu2n
+CODM UID: 426481844
+CODM Region: ID
+CODM Level: 67
+Game Connections:
+- CODM: [eBeeoSIJu2n (ID)
+============================================================
+Account: jun_pogi_01
+Login: jun_pogi_01:Bakafrajto1.
+UID: 267126780
+Username: jun_pogi_01
+Nickname: FrAJ
+Email: cha****@gmail.com
+Email Status: Verified
+Phone: ****0488
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Fraj666
+CODM UID: 261094404848738
+CODM Region: PH
+CODM Level: 400
+Game Connections:
+- CODM: [fIk66iOxbYp (PH)
+============================================================
+Account: fren_with_an_s
+Login: fren_with_an_s:lamayo123
+UID: 363295777
+Username: Fren_With_An_S
+Nickname: phlox
+Email: jes****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: Valkai
+CODM UID: 363295777
+CODM Region: PH
+CODM Level: 3
+Game Connections:
+- CODM: Valkai (PH)
+============================================================
+Account: patdiffie_29
+Login: patdiffie_29:olegario29
+UID: 543232139
+Username: patdiffie_29
+Nickname:
+Email: pca****@yahoo.com
+Email Status: Not Verified
+Phone: ****2440
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Tyrant Fel
+CODM UID: 554341521998070
+CODM Region: PH
+CODM Level: 400
+Game Connections:
+- CODM: Tyrant Fel (PH)
+============================================================
+Account: Asd_qwaz47
+Login: Asd_qwaz47:z0806817992
+UID: 321786656
+Username: asd_qwaz47
+Nickname: "๐"MIPT:LPLFfdpLLF
+Email: por****@gmail.com
+Email Status: Verified
+Phone: ****9679
+Country: TH
+Shell Balance: 13
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: 1412XD
+CODM UID: 321786656
+CODM Region: TH
+CODM Level: 14
+Game Connections:
+- ROV: SalmonSSS (TH)
+- CODM: 1412XD (TH)
+- SPEED DRIFTERS: "๐"MIPT:LPLFfdpLLF (TH)
+============================================================
+Account: dechnukorn2549
+Login: dechnukorn2549:dechnukorn2549
+UID: 427474345
+Username: dechnukorn2549
+Nickname: golf_gdr
+Email:
+Email Status: Not Verified
+Phone: ****5850
+Country: TH
+Shell Balance: 15
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: solor_
+CODM UID: 436102370589403
+CODM Region: TH
+CODM Level: 24
+Game Connections:
+- ROV: ASD-01 (TH)
+- CODM: solor_ (TH)
+============================================================
+Account: XxNo_Name0803xX
+Login: XxNo_Name0803xX:123456abc@Q
+UID: 632224230
+Username: XxNo_Name0803xX
+Nickname:
+Email: doh****@gmail.com
+Email Status: Verified
+Phone: ****0649
+Country: VN
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: 6RightKara6AZv
+CODM UID: 632224230
+CODM Region: PH
+CODM Level: 1
+============================================================
+Account: owhcksosvs
+Login: owhcksosvs:Gian0430
+UID: 524719557
+Username: owhcksosvs
+Nickname:
+Email: gia****@gmail.com
+Email Status: Not Verified
+Phone: ****6427
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA
+CODM Name: pukengpagod
+CODM UID: 524719557
+CODM Region: PH
+CODM Level: 153
+Game Connections:
+- CODM: pukengpagod (PH)
+- AOV: clark2.0 (PH)
+============================================================
+Account: XxNo_Name0803xX
+Login: XxNo_Name0803xX:123456abc@Q
+UID: 632224230
+Username: XxNo_Name0803xX
+Nickname:
+Email: doh****@gmail.com
+Email Status: Verified
+Phone: ****0649
+Country: VN
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: 6RightKara6AZv
+CODM UID: 632224230
+CODM Region: PH
+CODM Level: 1
+============================================================
+Account: wtbolger12@gmail.com
+Login: wtbolger12@gmail.com:iNovan29@
+UID: 479954692
+Username: wtbolger12
+Nickname:
+Email: wtb****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: iZomboy
+CODM UID: 479954692
+CODM Region: ID
+CODM Level: 2
+============================================================
+Account: psycho.path15
+Login: psycho.path15:wannabegosu15
+UID: 90465906
+Username: pSyCHo.PaTh15
+Nickname: ニセコイ
+Email: mar****@yahoo.com
+Email Status: Verified
+Phone: ****9967
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | Auth App
+CODM Name: SamaelLucy
+CODM UID: 90465906
+CODM Region: PH
+CODM Level: 15
+Game Connections:
+- CODM: SamaelLucy (PH)
+============================================================
+Account: nutandpookao
+Login: nutandpookao:0973576857bleza
+UID: 385917146
+Username: nutandpookao
+Nickname: nutandpookhao
+Email: 498****@mvsk.ac.th
+Email Status: Verified
+Phone: ****6857
+Country: TH
+Shell Balance: 14
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: nutandpookao
+CODM UID: 385917146
+CODM Region: TH
+CODM Level: 1
+Game Connections:
+- ROV: nutandpookao (TH)
+- CODM: nutandpookao (TH)
+- SPEED DRIFTERS: Greenpeaze (TH)
+============================================================
+Account: iladoj26
+Login: iladoj26:ShaCha20
+UID: 244439177
+Username: iladoj26
+Nickname: Senya__
+Email: ila****@yahoo.com
+Email Status: Verified
+Phone: ****2808
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: Senya__
+CODM UID: 244439177
+CODM Region: PH
+CODM Level: 74
+Game Connections:
+- CODM: Senya__ (PH)
+============================================================
+Account: peepird222
+Login: peepird222:0897244218za
+UID: 222189845
+Username: peepird222
+Nickname: PEEPIRD
+Email: pee****@hotmail.com
+Email Status: Verified
+Phone: ****8422
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: Sakpisit
+CODM UID: 2358199594429785
+CODM Region: TH
+CODM Level: 140
+Game Connections:
+- ROV: PEEPIRD (TH)
+- CODM: Sakpisit (TH)
+============================================================
+Account: emeiy_hakimi
+Login: emeiy_hakimi:Emeiykimi017!
+UID: 624525658
+Username: emeiy_hakimi
+Nickname:
+Email: nur****@gmail.com
+Email Status: Verified
+Phone: ****5617
+Country: MY
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: emeiy_hakimi
+CODM UID: 624525658
+CODM Region: MY
+CODM Level: 18
+Game Connections:
+- CODM: emeiy_hakimi (MY)
+============================================================
+Account: 1stbuyung
+Login: 1stbuyung:boyyoung1285
+UID: 258399233
+Username: 1stbuyung
+Nickname: BastadNuker
+Email: kdg****@gmail.com
+Email Status: Verified
+Phone: ****6566
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | Auth App
+CODM Name: BastadNuker
+CODM UID: 258399233
+CODM Region: ID
+CODM Level: 41
+Game Connections:
+- CODM: BastadNuker (ID)
+============================================================
+Account: Darnjichan
+Login: Darnjichan:Lee21245,.
+UID: 636857666
+Username: Darnjichan
+Nickname:
+Email: car****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: Darnjichan.
+CODM UID: 636857666
+CODM Region: PH
+CODM Level: 8
+Game Connections:
+- CODM: Darnjichan. (PH)
+============================================================
+Account: tunaako05
+Login: tunaako05:TUNAAKO1245
+UID: 520595682
+Username: tunaako05
+Nickname: Paradox
+Email: ste****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, ID Card)
+Security Status: [SUCCESS] Normal
+CODM Name: Natoytzzzy
+CODM UID: 520595682
+CODM Region: PH
+CODM Level: 353
+Game Connections:
+- CODM: Natoytzzzy (PH)
+- DELTA FORCE: Mitchikatsunur (PH)
+============================================================
+Account: danreb13456
+Login: danreb13456:danreb123456
+UID: 362049233
+Username: danreb13456
+Nickname: We bears
+Email: chu****@gmail.com
+Email Status: Verified
+Phone: ****7261
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: DANCHUA01
+CODM UID: 362049233
+CODM Region: PH
+CODM Level: 20
+Game Connections:
+- CODM: DANCHUA01 (PH)
+============================================================
+Account: renbalr
+Login: renbalr:Renbalr09-
+UID: 573253853
+Username: renbalr
+Nickname:
+Email: ren****@gmail.com
+Email Status: Not Verified
+Phone: ****9459
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: AMT Suneoo
+CODM UID: 106879982137840
+CODM Region: PH
+CODM Level: 400
+Game Connections:
+- CODM: AMT Suneoo (PH)
+============================================================
+Account: akunketiga25
+Login: akunketiga25:Malek230506@
+UID: 636687395
+Username: akunketiga25
+Nickname:
+Email: aku****@gmail.com
+Email Status: Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: Pakde Junaedi
+CODM UID: 636687395
+CODM Region: ID
+CODM Level: 34
+Game Connections:
+- CODM: Pakde Junaedi (ID)
+============================================================
+Account: DausAzmi04
+Login: DausAzmi04:wassupdaus19
+UID: 531035055
+Username: DausAzmi04
+Nickname:
+Email: was****@gmail.com
+Email Status: Verified
+Phone: ****6981
+Country: MY
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: dausazmi
+CODM UID: 531035055
+CODM Region: MY
+CODM Level: 41
+Game Connections:
+- CODM: dausazmi (MY)
+============================================================
+Account: ioren00
+Login: ioren00:Rahmasarita20_
+UID: 621106410
+Username: Ioren00
+Nickname:
+Email: esk****@gmail.com
+Email Status: Verified
+Phone: ****6733
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: I/0
+CODM UID: 621106410
+CODM Region: ID
+CODM Level: 36
+Game Connections:
+- CODM: I/0 (ID)
+============================================================
+Account: ScytheAxe
+Login: ScytheAxe:8rth123pqr
+UID: 511767420
+Username: scytheaxe
+Nickname: Axe
+Email:
+Email Status: Not Verified
+Phone: ****3347
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: BLCK-Groozy°
+CODM UID: 511767420
+CODM Region: ID
+CODM Level: 213
+Game Connections:
+- CODM: BLCK-Groozy° (ID)
+- DELTA FORCE: Groozy (ID)
+============================================================
+Account: K1ll3r6952
+Login: K1ll3r6952:Kymsandpinkyz5
+UID: 537935008
+Username: K1ll3r6952
+Nickname:
+Email: kym****@gmail.com
+Email Status: Not Verified
+Phone: ****5543
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: SWAK_SARAP
+CODM UID: 2359901754118210
+CODM Region: PH
+CODM Level: 164
+Game Connections:
+- CODM: REVャ丨BLüËシ (PH)
+- AOV: Ç@pt.BlüëRøse (PH)
+============================================================
+Account: PLDTHOMEFIVR
+Login: PLDTHOMEFIVR:Pldt@1homefivr
+UID: 572408840
+Username: PLDTHOMEFIVR
+Nickname: Jeremy
+Email: jer****@gmail.com
+Email Status: Verified
+Phone: ****3819
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: [5RPWzg9n0xE
+CODM UID: 234272975151150
+CODM Region: PH
+CODM Level: 400
+Game Connections:
+- CODM: [5RPWzg9n0xE (PH)
+============================================================
+Account: satthu0166
+Login: satthu0166:lonmemay1
+UID: 118295199
+Username: satthu0166
+Nickname: Hoàng Quân (Mã NV:521
+Email: anh****@yahoo.com.vn
+Email Status: Not Verified
+Phone: ****8112
+Country: VN
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Hươnga
+CODM UID: 118295199
+CODM Region: PH
+CODM Level: 5
+Game Connections:
+- ROV: top1vanheoac (VN)
+============================================================
+Account: tong_ngon_123
+Login: tong_ngon_123:chi1matkhau
+UID: 167186912
+Username: tong_ngon_123
+Nickname: Tin nhắn hệ thống
+Email: doa****@yahoo.com
+Email Status: Not Verified
+Phone: ****1472
+Country: VN
+Shell Balance: 0
+Account Status: Inactive
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Imbestbaby
+CODM UID: 167186912
+CODM Region: ID
+CODM Level: 41
+============================================================
+Account: zidane123456aq
+Login: zidane123456aq:pitikubrov2554@Z
+UID: 313951443
+Username: zidane123456aq
+Nickname:
+Email: noo****@gmail.com
+Email Status: Verified
+Phone: ****7904
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: zidane123456aq
+CODM UID: 313951443
+CODM Region: TH
+CODM Level: 21
+Game Connections:
+- ROV: 𝕰𝖆 (TH)
+- CODM: zidane123456aq (TH)
+============================================================
+Account: isha_jayne25
+Login: isha_jayne25:#Vince212007
+UID: 521345040
+Username: isha_jayne25
+Nickname: sino ka
+Email: kra****@gmail.com
+Email Status: Verified
+Phone: ****2281
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: [9JJnu4Q3UhL
+CODM UID: 521345040
+CODM Region: PH
+CODM Level: 397
+Game Connections:
+- CODM: [9JJnu4Q3UhL (PH)
+============================================================
+Account: zxckoy777
+Login: zxckoy777:garena0940702705
+UID: 94878688
+Username: zxckoy777
+Nickname: F
+Email: dag****@gmail.com
+Email Status: Verified
+Phone: ****2705
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: nop1412
+CODM UID: 94878688
+CODM Region: TH
+CODM Level: 19
+============================================================
+Account: alkenza
+Login: alkenza:alkenza098
+UID: 520055807
+Username: alkenza
+Nickname:
+Email: alk****@gmail.com
+Email Status: Not Verified
+Phone: ****0208
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: NickKenza
+CODM UID: 520055807
+CODM Region: ID
+CODM Level: 17
+Game Connections:
+- CODM: NickKenza (ID)
+- ROV: YanuarWildan (ID)
+============================================================
+Account: surveyzupeemtha
+Login: surveyzupeemtha:thai0984917707
+UID: 269108799
+Username: surveyzupeemtha
+Nickname: surveyzupeemtha
+Email: sur****@gmail.com
+Email Status: Verified
+Phone: ****1248
+Country: TH
+Shell Balance: 7
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | Auth App
+CODM Name: ฮรรมโต
+CODM UID: 269108799
+CODM Region: TH
+CODM Level: 165
+Game Connections:
+- ROV: 'B.1' (TH)
+- CODM: ฮรรมโต (TH)
+- DELTA FORCE: Survey (TH)
+============================================================
+Account: IN_OHIO
+Login: IN_OHIO:Pan-128052
+UID: 581045430
+Username: IN_OHIO
+Nickname: หล่อ
+Email: mas****@gmail.com
+Email Status: Verified
+Phone: ****6916
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: ERROR_MAN01
+CODM UID: 161289433156630
+CODM Region: TH
+CODM Level: 89
+Game Connections:
+- ROV: ลูกกะหริี่เข้าเล่น (TH)
+============================================================
+Account: aqq5657
+Login: aqq5657:Pram1412
+UID: 379404473
+Username: aqq5657
+Nickname: KEATTIMASAK
+Email: tam****@gamail.com
+Email Status: Not Verified
+Phone: ****8347
+Country: TH
+Shell Balance: 25
+Account Status: Active
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: BARIONIC
+CODM UID: 379404473
+CODM Region: TH
+CODM Level: 15
+Game Connections:
+- ROV: ᴘʀᴀᴍᴇᴊɪɪ (TH)
+- CODM: BARIONIC (TH)
+- SPEED DRIFTERS: aqq5657 (TH)
+============================================================
+Account: 099099pp
+Login: 099099pp:181142mok
+UID: 285346376
+Username: 099099pp
+Nickname: I'м
+Email: zar****@email.com
+Email Status: Not Verified
+Phone: ****5448
+Country: TH
+Shell Balance: 14
+Account Status: Active
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: のつモ_56
+CODM UID: 285346376
+CODM Region: TH
+CODM Level: 350
+Game Connections:
+- ROV: แงวตัวนั้น (TH)
+- CODM: のつモ_56 (TH)
+- DELTA FORCE: nanajithun (TH)
+- GARENA UNDAWN: MakotoROCK (TH)
+============================================================
+Account: Viogardenn
+Login: Viogardenn:Violet_280906
+UID: 629490845
+Username: Viogardenn
+Nickname:
+Email: nxr****@gmail.com
+Email Status: Verified
+Phone: ****3639
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: ExorCisE.NeST
+CODM UID: 654550406827007
+CODM Region: ID
+CODM Level: 255
+============================================================
+Account: boracay_08
+Login: boracay_08:pipoy123456
+UID: 214770105
+Username: boracay_08
+Nickname: shett11
+Email: pog****@yahoo.com.ph
+Email Status: Not Verified
+Phone: ****4539
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: jowmar
+CODM UID: 214770105
+CODM Region: PH
+CODM Level: 19
+Game Connections:
+- CODM: jowmar (PH)
+============================================================
+Account: partbwy
+Login: partbwy:Partbwy123_
+UID: 569056047
+Username: partbwy
+Nickname:
+Email: bim****@gmail.com
+Email Status: Not Verified
+Phone: ****4740
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: Partbwy
+CODM UID: 569056047
+CODM Region: PH
+CODM Level: 6
+Game Connections:
+- CODM: Partbwy (PH)
+============================================================
+Account: shakrit
+Login: shakrit:hongsuwan0712
+UID: 84408778
+Username: shakrit
+Nickname: Faruk Sata
+Email: sha****@hotmail.com
+Email Status: Verified
+Phone: ****8499
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Vatigan
+CODM UID: 84408778
+CODM Region: TH
+CODM Level: 136
+Game Connections:
+- ROV: กุจะตบไก่โง่ๆอ่ะ (TH)
+- CODM: Vatigan (TH)
+- SPEED DRIFTERS: Nuyaae (TH)
+- MOONLIGHT BLADE: นุยาเอะ (TH)
+============================================================
+Account: 1stbuyung
+Login: 1stbuyung:boyyoung1285
+UID: 258399233
+Username: 1stbuyung
+Nickname: BastadNuker
+Email: kdg****@gmail.com
+Email Status: Verified
+Phone: ****6566
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | Auth App
+CODM Name: BastadNuker
+CODM UID: 258399233
+CODM Region: ID
+CODM Level: 41
+Game Connections:
+- CODM: BastadNuker (ID)
+============================================================
+Account: newgen1919
+Login: newgen1919:JaycE_11
+UID: 589419561
+Username: Newgen1919
+Nickname:
+Email: jay****@gmail.com
+Email Status: Verified
+Phone: ****8207
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: CEE_CANTAIM
+CODM UID: 589419561
+CODM Region: PH
+CODM Level: 27
+Game Connections:
+- CODM: CEE_CANTAIM (PH)
+============================================================
+Account: fren_with_an_s
+Login: fren_with_an_s:lamayo123
+UID: 363295777
+Username: Fren_With_An_S
+Nickname: phlox
+Email: jes****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: Valkai
+CODM UID: 363295777
+CODM Region: PH
+CODM Level: 3
+Game Connections:
+- CODM: Valkai (PH)
+============================================================
+Account: renaldr
+Login: renaldr:Renald09-
+UID: 573251827
+Username: renaldr
+Nickname:
+Email: ren****@gmail.com
+Email Status: Not Verified
+Phone: ****9459
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: SRG-DEPUGAGED
+CODM UID: 276334891213437
+CODM Region: PH
+CODM Level: 400
+Game Connections:
+- CODM: SRG-DEPUGAGED (PH)
+============================================================
+Account: Hatsumi591
+Login: Hatsumi591:Expert01@
+UID: 536908097
+Username: Hatsumi591
+Nickname:
+Email: hat****@gmail.com
+Email Status: Verified
+Phone: ****2031
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: [2dvxFC aplT
+CODM UID: 113882417440182
+CODM Region: PH
+CODM Level: 177
+Game Connections:
+- CODM: [2dvxFC+aplT (PH)
+============================================================
+Account: prnusta28
+Login: prnusta28:Riyanyevi28
+UID: 484140520
+Username: prnusta28
+Nickname:
+Email: riy****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: PRINUSTA`Rymik
+CODM UID: 484140520
+CODM Region: ID
+CODM Level: 42
+Game Connections:
+- CODM: PRINUSTA`Rymik (ID)
+- AOV: prnusta (ID)
+============================================================
+Account: Xyrus052507
+Login: Xyrus052507:Kbjm#052507
+UID: 621105413
+Username: Xyrus052507
+Nickname:
+Email: ant****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: umibozo
+CODM UID: 621105413
+CODM Region: PH
+CODM Level: 37
+Game Connections:
+- CODM: umibozo (PH)
+============================================================
+Account: Viogardenn
+Login: Viogardenn:Violet_280906
+UID: 629490845
+Username: Viogardenn
+Nickname:
+Email: nxr****@gmail.com
+Email Status: Verified
+Phone: ****3639
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: ExorCisE.NeST
+CODM UID: 654550406827007
+CODM Region: ID
+CODM Level: 255
+============================================================
+Account: kiryu747
+Login: kiryu747:0929764125Za.
+UID: 565948188
+Username: kiryu747
+Nickname: Stuck with u
+Email: pol****@gmail.com
+Email Status: Not Verified
+Phone: ****8048
+Country: TH
+Shell Balance: 7
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: staywithu
+CODM UID: 565948188
+CODM Region: TH
+CODM Level: 37
+Game Connections:
+- ROV: ᴡᴏɴᴅᴇʀʙᴏʏ. (TH)
+- CODM: staywithu (TH)
+============================================================
+Account: forgetmenottis@gmail.com
+Login: forgetmenottis@gmail.com:nottisx3
+UID: 480105461
+Username: Kssadidas
+Nickname: Nottis
+Email: for****@gmail.com
+Email Status: Verified
+Phone: ****6255
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA
+CODM Name: N.NuT
+CODM UID: 480105461
+CODM Region: TH
+CODM Level: 27
+Game Connections:
+- ROV: нєιιиǿт (TH)
+- CODM: N.NuT (TH)
+- SPEED DRIFTERS: จoມມารສาຍllบ๊ (TH)
+============================================================
+Account: Ngothusen89
+Login: Ngothusen89:conangvuive23
+UID: 553002826
+Username: Ngothusen89
+Nickname: Huy Lâm - Mã NV:539008
+Email: kha****@gmail.com
+Email Status: Not Verified
+Phone: ****0853
+Country: VN
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Yetta=Silen1
+CODM UID: 553002826
+CODM Region: ID
+CODM Level: 21
+Game Connections:
+- ROV: RácCủaLQ (VN)
+============================================================
+Account: Rematch190
+Login: Rematch190:HackerBitches_20
+UID: 573762739
+Username: Rematch190
+Nickname:
+Email: kai****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [WARNING] Suspicious
+CODM Name: EB Defxult.UG
+CODM UID: 378185077513510
+CODM Region: PH
+CODM Level: 159
+Game Connections:
+- CODM: EB Defxult.UG (PH)
+============================================================
+Account: akmboss12
+Login: akmboss12:valera198
+UID: 70516048
+Username: akmboss12
+Nickname: Kaniel Outis
+Email: mai****@gmail.com
+Email Status: Verified
+Phone: ****0881
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: KanielOutis1
+CODM UID: 70516048
+CODM Region: PH
+CODM Level: 19
+Game Connections:
+- CODM: KanielOutis1 (PH)
+============================================================
+Account: siophobia
+Login: siophobia:YASUOMAINXd
+UID: 337033004
+Username: Siophobia
+Nickname: kirk
+Email: laz****@gmail.com
+Email Status: Verified
+Phone: ****6226
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: Uraharashisui
+CODM UID: 337033004
+CODM Region: PH
+CODM Level: 2
+Game Connections:
+- CODM: Uraharashisui (PH)
+============================================================
+Account: aqueriontv@gmail.com
+Login: aqueriontv@gmail.com:Collene27
+UID: 531622193
+Username: RedVelvetMax
+Nickname:
+Email: aqu****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: RedVelvetMax
+CODM UID: 531622193
+CODM Region: PH
+CODM Level: 19
+Game Connections:
+- CODM: RedVelvetMax (PH)
+============================================================
+Account: kiryu747
+Login: kiryu747:0929764125Za.
+UID: 565948188
+Username: kiryu747
+Nickname: Stuck with u
+Email: pol****@gmail.com
+Email Status: Not Verified
+Phone: ****8048
+Country: TH
+Shell Balance: 7
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: staywithu
+CODM UID: 565948188
+CODM Region: TH
+CODM Level: 37
+Game Connections:
+- ROV: ᴡᴏɴᴅᴇʀʙᴏʏ. (TH)
+- CODM: staywithu (TH)
+============================================================
+Account: asdfbgh143
+Login: asdfbgh143:masterfu1234
+UID: 557264562
+Username: asdfbgh143
+Nickname:
+Email: dik****@gmail.com
+Email Status: Not Verified
+Phone: ****1091
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: [4qfcG1XM7gy
+CODM UID: 269765790723733
+CODM Region: ID
+CODM Level: 65
+Game Connections:
+- CODM: [4qfcG1XM7gy (ID)
+============================================================
+Account: puliido09
+Login: puliido09:hEAlHyI3Zl9Qm-m
+UID: 637880331
+Username: puliido09
+Nickname:
+Email: pul****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: Iyod_
+CODM UID: 637880331
+CODM Region: PH
+CODM Level: 18
+Game Connections:
+- CODM: Iyod_ (PH)
+============================================================
+Account: mib5550
+Login: mib5550:123456789za0
+UID: 303052957
+Username: mib5550
+Nickname: Yuri​XDDDD
+Email: dsi****@jijghreil.iocm
+Email Status: Not Verified
+Phone: ****4143
+Country: TH
+Shell Balance: 4
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: Mika-san.
+CODM UID: 303052957
+CODM Region: TH
+CODM Level: 13
+Game Connections:
+- ROV: ʙᴇ_ꜱᴀʏᴏᴋᴏ࿐ (TH)
+- CODM: Mika-san. (TH)
+- DELTA FORCE: BE×SAYOKO (TH)
+- SPEED DRIFTERS: Chaowaratl (TH)
+============================================================
+Account: ammm1122
+Login: ammm1122:0910620720aum
+UID: 165083485
+Username: ammm1122
+Nickname: ค้วยไรเด็ก
+Email: ark****@gmail.com
+Email Status: Verified
+Phone: ****9034
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA
+CODM Name: EVOS.NANI
+CODM UID: 165083485
+CODM Region: TH
+CODM Level: 150
+Game Connections:
+- ROV: อยายเลีย (TH)
+- CODM: EVOS.NANI (TH)
+- SPEED DRIFTERS: Grover (TH)
+============================================================
+Account: Fit_mc
+Login: Fit_mc:8h!FNTh3Ch!BnZD
+UID: 562873161
+Username: fit_Mc
+Nickname: Tazu
+Email: fit****@gmail.com
+Email Status: Not Verified
+Phone: ****6829
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: shelly___x
+CODM UID: 129954192999532
+CODM Region: PH
+CODM Level: 400
+Game Connections:
+- CODM: shelly___x (PH)
+============================================================
+Account: setiadaniyogis@gmail.com
+Login: setiadaniyogis@gmail.com:yogis123
+UID: 538406334
+Username: arildayogiss
+Nickname:
+Email: set****@gmail.com
+Email Status: Not Verified
+Phone: ****2934
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: Yuro`
+CODM UID: 538406334
+CODM Region: ID
+CODM Level: 31
+Game Connections:
+- CODM: Yuro` (ID)
+============================================================
+Account: yanuarprasetyo5@gmail.com
+Login: yanuarprasetyo5@gmail.com:Yanuar@1506
+UID: 635701327
+Username: yanuaryudha1506
+Nickname:
+Email: yan****@gmail.com
+Email Status: Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: DerekSeve1AZuR
+CODM UID: 635701327
+CODM Region: ID
+CODM Level: 1
+Game Connections:
+- DELTA FORCE: FTRxSooYuu (ID)
+============================================================
+Account: Tranhaitien05
+Login: Tranhaitien05:Tranhaitien@29
+UID: 635461292
+Username: Tranhaitien05
+Nickname:
+Email: tra****@gmail.com
+Email Status: Verified
+Phone:
+Country: VN
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: Tranhaitien05
+CODM UID: 635461292
+CODM Region: PH
+CODM Level: 1
+============================================================
+Account: akunpertama23
+Login: akunpertama23:malek230506
+UID: 552720224
+Username: akunpertama23
+Nickname:
+Email: rin****@gmail.com
+Email Status: Not Verified
+Phone: ****6826
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: Xposer
+CODM UID: 552720224
+CODM Region: ID
+CODM Level: 158
+Game Connections:
+- CODM: Xposer (ID)
+============================================================
+Account: masteraov1890
+Login: masteraov1890:illyasgaming1890
+UID: 478471916
+Username: masteraov1890
+Nickname:
+Email: amn****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: MasterCOD01
+CODM UID: 478471916
+CODM Region: ID
+CODM Level: 44
+Game Connections:
+- CODM: MasterCOD01 (ID)
+- AOV: ᴾᴿᴼGaming☆ (ID)
+============================================================
+Account: twoinw2222
+Login: twoinw2222:@Sd206253999
+UID: 593746234
+Username: twoinw2222
+Nickname:
+Email: two****@gmail.com
+Email Status: Verified
+Phone:
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: twoinw2222
+CODM UID: 593746234
+CODM Region: TH
+CODM Level: 2
+Game Connections:
+- CODM: twoinw2222 (TH)
+============================================================
+Account: Hatsumi591
+Login: Hatsumi591:Expert01@
+UID: 536908097
+Username: Hatsumi591
+Nickname:
+Email: hat****@gmail.com
+Email Status: Verified
+Phone: ****2031
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: [2dvxFC aplT
+CODM UID: 113882417440182
+CODM Region: PH
+CODM Level: 177
+Game Connections:
+- CODM: [2dvxFC+aplT (PH)
+============================================================
+Account: MikkoBadeoqt
+Login: MikkoBadeoqt:Mikko183461
+UID: 529996400
+Username: MikkoBadeoqt
+Nickname:
+Email: bad****@gmail.com
+Email Status: Not Verified
+Phone: ****2364
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: spinach
+CODM UID: 529996400
+CODM Region: PH
+CODM Level: 102
+Game Connections:
+- CODM: spinach    (PH)
+============================================================
+Account: Bacctri
+Login: Bacctri:quynhnee1
+UID: 447047243
+Username: bacctri
+Nickname: cặc
+Email: loa****@gmail.com
+Email Status: Verified
+Phone: ****2123
+Country: VN
+Shell Balance: 0
+Account Status: Inactive
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Matambok..
+CODM UID: 447047243
+CODM Region: PH
+CODM Level: 2
+Game Connections:
+- ROV: TuiKỳCục58852619 (VN)
+============================================================
+Account: Zeexyyy
+Login: Zeexyyy:Zidanfadhlu1*
+UID: 595746656
+Username: Zeexyyy
+Nickname:
+Email: zid****@gmail.com
+Email Status: Not Verified
+Phone: ****7208
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA
+CODM Name: Zeexyyy
+CODM UID: 595746656
+CODM Region: ID
+CODM Level: 29
+Game Connections:
+- CODM: Zeexyyy (ID)
+============================================================
+Account: tranhaitien2952006@gmail.com
+Login: tranhaitien2952006@gmail.com:Tranhaitien@29
+UID: 635461292
+Username: Tranhaitien05
+Nickname:
+Email: tra****@gmail.com
+Email Status: Verified
+Phone:
+Country: VN
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: Tranhaitien05
+CODM UID: 635461292
+CODM Region: PH
+CODM Level: 1
+============================================================
+Account: abidesmaria79@gmail.com
+Login: abidesmaria79@gmail.com:(Markqw3rty)
+UID: 578272241
+Username: Maikojr
+Nickname:
+Email: abi****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [SUCCESS] Normal
+CODM Name: respoken
+CODM UID: 578272241
+CODM Region: PH
+CODM Level: 27
+Game Connections:
+- CODM: respoken (PH)
+============================================================
+Account: Itzmecaine
+Login: Itzmecaine:CaineJoinod#09
+UID: 636569758
+Username: Itzmecaine
+Nickname:
+Email: gok****@gmail.com
+Email Status: Verified
+Phone:
+Country: MY
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [SUCCESS] Normal
+CODM Name: Itzmecaine
+CODM UID: 636569758
+CODM Region: MY
+CODM Level: 3
+Game Connections:
+- CODM: Itzmecaine (MY)
+============================================================
+Account: EvanHibatullah
+Login: EvanHibatullah:EvanGaming
+UID: 546062815
+Username: EvanHibatullah
+Nickname:
+Email: eva****@gmail.com
+Email Status: Not Verified
+Phone: ****4104
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: AcountQiiFPS
+CODM UID: 546062815
+CODM Region: ID
+CODM Level: 243
+Game Connections:
+- CODM: AcountQiiFPS (ID)
+- GARENA UNDAWN: VynixS (ID)
+============================================================
+Account: cjlorenzo12abcd
+Login: cjlorenzo12abcd:@Cjlorenzo123abc
+UID: 609284822
+Username: cjlorenzo12abcd
+Nickname:
+Email: car****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [WARNING] Suspicious
+CODM Name: SDN Norulesz
+CODM UID: 609284822
+CODM Region: PH
+CODM Level: 7
+Game Connections:
+- CODM: SDN Norulesz (PH)
+============================================================
+Account: pondarmm1770
+Login: pondarmm1770:pond1234
+UID: 240589917
+Username: pondarmm1770
+Nickname: การแจ้งเตื
+Email: pon****@gmail.com
+Email Status: Not Verified
+Phone: ****7653
+Country: TH
+Shell Balance: 1
+Account Status: Inactive
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: DEEDOD
+CODM UID: 240589917
+CODM Region: TH
+CODM Level: 31
+Game Connections:
+- ROV: รหัสกุครับ (TH)
+- CODM: DEEDOD (TH)
+============================================================
+Account: 512721988@qq.com
+Login: 512721988@qq.com:13563857655asd
+UID: 520206788
+Username: Gundermodel
+Nickname: SHOTドライブ
+Email: 512****@qq.com
+Email Status: Not Verified
+Phone: ****2583
+Country: CN
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: SHOTドライブ
+CODM UID: 520206788
+CODM Region: SG
+CODM Level: 29
+============================================================
+Account: berber05
+Login: berber05:zZ2UTSashGm!
+UID: 57218263
+Username: berber05
+Nickname: BANNED
+Email: ber****@yahoo.com
+Email Status: Verified
+Phone: ****4808
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: GDE LAPUK TOP
+CODM UID: 57218263
+CODM Region: PH
+CODM Level: 203
+Game Connections:
+- CODM: GDE LAPUK TOP (PH)
+============================================================
+Account: Actionfailed
+Login: Actionfailed:Brenmarc01@
+UID: 529127350
+Username: Actionfailed
+Nickname: Vyem
+Email: cod****@gmail.com
+Email Status: Verified
+Phone: ****4665
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Vyem卍
+CODM UID: 2416466295266093
+CODM Region: PH
+CODM Level: 330
+Game Connections:
+- CODM: Vyem卍 (PH)
+============================================================
+Account: Topland1
+Login: Topland1:0995015465za
+UID: 249049538
+Username: Topland1
+Nickname: big
+Email: dee****@gmail.com
+Email Status: Verified
+Phone: ****1037
+Country: TH
+Shell Balance: 0
+Account Status: Inactive
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: TOKYO-TV
+CODM UID: 1511838325608149
+CODM Region: TH
+CODM Level: 175
+Game Connections:
+- ROV: อย่าเเย่งฟาร์ม (TH)
+- CODM: TOKYO-TV (TH)
+- DELTA FORCE: Linked7Outrdr6 (TH)
+- SPEED DRIFTERS: iluvunaaa (TH)
+============================================================
+Account: Rexggo
+Login: Rexggo:!Gqsn43du
+UID: 481494129
+Username: rexggo
+Nickname:
+Email: rex****@gmail.com
+Email Status: Verified
+Phone: ****9953
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA | Auth App | [WARNING] Suspicious
+CODM Name: im_cheater123
+CODM UID: 481494129
+CODM Region: PH
+CODM Level: 104
+Game Connections:
+- CODM: im_cheater123 (PH)
+============================================================
+Account: kyamiZNA
+Login: kyamiZNA:Keluargaku08.
+UID: 628724371
+Username: KyamiZNA
+Nickname:
+Email: nug****@gmail.com
+Email Status: Verified
+Phone: ****2366
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: KyamiZNA
+CODM UID: 628724371
+CODM Region: ID
+CODM Level: 7
+Game Connections:
+- CODM: KyamiZNA (ID)
+============================================================
+Account: kakekikoo
+Login: kakekikoo:Bengbeng3296
+UID: 529764755
+Username: kakekikoo
+Nickname:
+Email: cai****@gmail.com
+Email Status: Not Verified
+Phone: ****6344
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Yowaiiiii
+CODM UID: 529764755
+CODM Region: PH
+CODM Level: 26
+Game Connections:
+- CODM: Yowaiiiii (PH)
+============================================================
+Account: elang.pradana.dirgantara@gmail.com
+Login: elang.pradana.dirgantara@gmail.com:d34d71ght
+UID: 446482312
+Username: five27three
+Nickname:
+Email: ela****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [WARNING] Suspicious
+CODM Name: five27three
+CODM UID: 446482312
+CODM Region: ID
+CODM Level: 2
+Game Connections:
+- CODM: five27three (ID)
+============================================================
+Account: Kyongx
+Login: Kyongx:Sheshe@69
+UID: 597485476
+Username: kyongx
+Nickname:
+Email: kyo****@gmail.com
+Email Status: Verified
+Phone: ****7313
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Tyr Kaijusmrf
+CODM UID: 597485476
+CODM Region: PH
+CODM Level: 313
+Game Connections:
+- CODM: Tyr Kaijusmrf (PH)
+- GARENA UNDAWN: Kyong (PH)
+============================================================
+Account: exearaaa
+Login: exearaaa:rifkyeka2006
+UID: 563505968
+Username: exearaaa
+Nickname:
+Email: rif****@gmail.com
+Email Status: Not Verified
+Phone: ****2492
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: EXE_Araaa
+CODM UID: 563505968
+CODM Region: ID
+CODM Level: 42
+Game Connections:
+- CODM: EXE_Araaa (ID)
+============================================================
+Account: zooaem0
+Login: zooaem0:a0864468838
+UID: 202347794
+Username: zooaem0
+Nickname: UNDA
+Email: mui****@hotmail.com
+Email Status: Not Verified
+Phone: ****1044
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: loveโฟม
+CODM UID: 202347794
+CODM Region: TH
+CODM Level: 2
+Game Connections:
+- ROV: มหาเทพกระบือธนูメ (TH)
+- CODM: loveโฟม (TH)
+- SPEED DRIFTERS: aemchi (TH)
+============================================================
+Account: Andi_Khairulgg
+Login: Andi_Khairulgg:irulkeren111204
+UID: 517386304
+Username: Andi_Khairulgg
+Nickname:
+Email: and****@gmail.com
+Email Status: Not Verified
+Phone: ****5963
+Country: ID
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Viper_Enk.
+CODM UID: 517386304
+CODM Region: ID
+CODM Level: 96
+Game Connections:
+- CODM: Viper_Enk. (ID)
+============================================================
+Account: berber05
+Login: berber05:zZ2UTSashGm!
+UID: 57218263
+Username: berber05
+Nickname: BANNED
+Email: ber****@yahoo.com
+Email Status: Verified
+Phone: ****4808
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: GDE LAPUK TOP
+CODM UID: 57218263
+CODM Region: PH
+CODM Level: 203
+Game Connections:
+- CODM: GDE LAPUK TOP (PH)
+============================================================
+Account: berber05
+Login: berber05:zZ2UTSashGm!
+UID: 57218263
+Username: berber05
+Nickname: BANNED
+Email: ber****@yahoo.com
+Email Status: Verified
+Phone: ****4808
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: GDE LAPUK TOP
+CODM UID: 57218263
+CODM Region: PH
+CODM Level: 203
+Game Connections:
+- CODM: GDE LAPUK TOP (PH)
+============================================================
+Account: fcfcmlml
+Login: fcfcmlml:anhcuu123dao
+UID: 400784871
+Username: fcfcmlml
+Nickname: Tin nhắn hệ thống
+Email:
+Email Status: Not Verified
+Phone: ****1949
+Country: VN
+Shell Balance: 0
+Account Status: Inactive
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: [8nm9T9AXgL
+CODM UID: 400784871
+CODM Region: PH
+CODM Level: 14
+Game Connections:
+- ROV: ✞ঔৣ۝₷âℳℑαƙ๛ (VN)
+============================================================
+Account: asdasd158umai
+Login: asdasd158umai:^N7@=EJ.v#D7!=%
+UID: 602709972
+Username: asdasd158umai
+Nickname:
+Email: asd****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [WARNING] Suspicious
+CODM Name: asdumai
+CODM UID: 602709972
+CODM Region: PH
+CODM Level: 31
+Game Connections:
+- CODM: asdumai (PH)
+============================================================
+Account: tunhat2001
+Login: tunhat2001:hoangga123
+UID: 272382203
+Username: tunhat2001
+Nickname: Hoang Tofu
+Email: kaz****@gmail.com
+Email Status: Verified
+Phone: ****8039
+Country: VN
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: GiveMeTangTang
+CODM UID: 272382203
+CODM Region: ID
+CODM Level: 27
+Game Connections:
+- ROV: Chế Phê Cần (VN)
+============================================================
+Account: Patrick7689
+Login: Patrick7689:Patrick_2007
+UID: 617257816
+Username: Patrick7689
+Nickname: BAN30YEARS
+Email: boj****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [WARNING] Suspicious
+CODM Name: [9fWUJOZBXFN
+CODM UID: 178935641211851
+CODM Region: PH
+CODM Level: 171
+Game Connections:
+- CODM: [9fWUJOZBXFN (PH)
+- ROV: Patrick7689 (PH)
+============================================================
+Account: mouseza017
+Login: mouseza017:maoss0172958
+UID: 79869700
+Username: mouseza017
+Nickname: MAO
+Email: mou****@hotmail.com
+Email Status: Not Verified
+Phone: ****1675
+Country: TH
+Shell Balance: 38
+Account Status: Active
+Bind Status: Bound (Phone, ID Card)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Zeshia.WC
+CODM UID: 79869700
+CODM Region: TH
+CODM Level: 350
+Game Connections:
+- ROV: โตอามิ56 (TH)
+- CODM: Zeshia.WC (TH)
+- GARENA UNDAWN: MAO (TH)
+- SPEED DRIFTERS: '©️| MAO™️シ (TH)
+- MOONLIGHT BLADE: ซำ ่เหมา (TH)
+============================================================
+Account: 00jna00
+Login: 00jna00:John2006!
+UID: 511356299
+Username: 00JNA00
+Nickname: aso
+Email: koh****@gmail.com
+Email Status: Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified)
+Security Status: [WARNING] Suspicious
+CODM Name: lft si vudoy
+CODM UID: 780610649061794
+CODM Region: PH
+CODM Level: 255
+Game Connections:
+- CODM: lft si vudoy (PH)
+============================================================
+Account: masd2023
+Login: masd2023:Sunday_1904
+UID: 488001099
+Username: masd2023
+Nickname: ichi
+Email: san****@gmail.com
+Email Status: Verified
+Phone: ****2309
+Country: TH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Email Verified, Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Saifa004
+CODM UID: 488001099
+CODM Region: TH
+CODM Level: 32
+Game Connections:
+- ROV: จุ๊บจิ๊บ_no1- (TH)
+- CODM: Saifa004 (TH)
+============================================================
+Account: marlou187zaz
+Login: marlou187zaz:balan187187147
+UID: 181978512
+Username: marlou187zaz
+Nickname: TSG. Hi Im Try to Kill
+Email: mar****@yahoo.com
+Email Status: Not Verified
+Phone: ****8070
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: [3JKNXDyOgc
+CODM UID: 181978512
+CODM Region: PH
+CODM Level: 343
+Game Connections:
+- CODM: [3JKNXDyOgc+ (PH)
+============================================================
+Account: batnamatay18
+Login: batnamatay18:erin09454924199
+UID: 435416100
+Username: batnamatay18
+Nickname: nyenyenye
+Email: mac****@gmail.com
+Email Status: Not Verified
+Phone:
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Clean
+Security Status: [WARNING] Suspicious
+CODM Name: stylishnero
+CODM UID: 435416100
+CODM Region: PH
+CODM Level: 12
+Game Connections:
+- CODM: stylishnero (PH)
+============================================================
+Account: batacvillanueva
+Login: batacvillanueva:jaysonbatac02
+UID: 540908766
+Username: BatacVillanueva
+Nickname: SukeHiro
+Email: jay****@gmail.com
+Email Status: Not Verified
+Phone: ****1955
+Country: PH
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: [64cpVWkTFqx
+CODM UID: 540908766
+CODM Region: PH
+CODM Level: 188
+Game Connections:
+- CODM: [64cpVWkTFqx (PH)
+- AOV: SukeHiro² (PH)
+============================================================
+Account: Markcauejo
+Login: Markcauejo:3231@zniL2003
+UID: 562362423
+Username: Markcauejo
+Nickname:
+Email: azn****@gmail.com
+Email Status: Not Verified
+Phone: ****4194
+Country: MY
+Shell Balance: 0
+Account Status: Active
+Bind Status: Bound (Phone)
+Security Status: 2FA | [WARNING] Suspicious
+CODM Name: Instinct203
+CODM UID: 562362423
+CODM Region: MY
+CODM Level: 12
+Game Connections:
+- CODM: Instinct203 (MY)
+- AOV: Unlimitedinstin (MY)
+============================================================

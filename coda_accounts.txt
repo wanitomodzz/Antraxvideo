@@ -1,0 +1,443 @@
+============================================================
+email: goog_qw@hotmail.com
+password: 0845254356CV
+country: Thailand (TH)
+mobile: 66809800628
+balance: 0
+total spent: 0
+currency code: 764
+created on: 2023-04-27T11:42:00.640427
+last update: 2023-04-27T11:42:00.640427
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: False
+created by: @AdstraxCloudsupport
+============================================================
+email: dellavaarmanbenedict@gmail.com
+password: 0910345216t
+country: Philippines (PH)
+mobile: 639469969525
+balance: 0
+total spent: 200
+currency code: 608
+created on: 2022-03-27T07:37:17.812337
+last update: 2022-03-30T00:48:56.325217
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: True
+created by: @AdstraxCloudsupport
+============================================================
+email: kenttiburcio6@gmail.com
+password: Kentnicole09
+country: Philippines (PH)
+mobile: 639560275113
+balance: 0
+total spent: 0
+currency code: 608
+created on: 2022-02-06T10:05:32.233663
+last update: 2022-02-06T10:05:32.233665
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: False
+created by: @AdstraxCloudsupport
+============================================================
+email: alvidalesibug@gmail.com
+password: Cardelalexmavi1
+country: Philippines (PH)
+mobile: 639760256665
+balance: 0.4
+total spent: 669.6
+currency code: 608
+created on: 2023-10-14T03:30:36.340163
+last update: 2024-07-15T18:07:03.276346
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: True
+created by: @AdstraxCloudsupport
+============================================================
+email: sylvelter9@gmail.com
+password: Emengkiut@0810
+country: Malaysia (MY)
+mobile: 601125309019
+balance: 0
+total spent: 115
+currency code: 458
+created on: 2023-03-15T00:08:40.812979
+last update: 2024-02-16T00:34:00.024979
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: True
+created by: @AdstraxCloudsupport
+============================================================
+email: asdukmetal@gmail.com
+password: AkuCrot123
+country: Indonesia (ID)
+mobile: 6285346818216
+balance: 0
+total spent: 0
+currency code: 360
+created on: 2023-02-26T08:24:30.688662
+last update: 2023-02-26T08:24:30.688662
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: False
+created by: @AdstraxCloudsupport
+============================================================
+email: kestergallego06@gmail.com
+password: Rodjemaer15
+country: Philippines (PH)
+mobile: 639914317957
+balance: 2.5
+total spent: 1667.5
+currency code: 608
+created on: 2021-09-30T00:59:51.578891
+last update: 2022-08-01T06:57:11.692500
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: True
+created by: @AdstraxCloudsupport
+============================================================
+email: radonivesama@gmail.com
+password: radoniveatcodashop1
+country: Philippines (PH)
+mobile: 639222813852
+balance: 1
+total spent: 19
+currency code: 608
+created on: 2021-11-13T13:53:07.367818
+last update: 2021-11-13T13:55:42.967003
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: True
+created by: @AdstraxCloudsupport
+============================================================
+email: julesced3@gmail.com
+password: Dudeman010
+country: Philippines (PH)
+mobile: 639050299161
+balance: 1
+total spent: 1169
+currency code: 608
+created on: 2021-11-13T03:10:27.097395
+last update: 2024-01-30T12:22:17.523394
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: True
+created by: @AdstraxCloudsupport
+============================================================
+email: nathanielmadrigal5@gmail.com
+password: akopogs.12
+country: Philippines (PH)
+mobile: 639380226007
+balance: 0
+total spent: 0
+currency code: 608
+created on: 2021-11-21T07:18:53.357499
+last update: 2021-11-21T07:18:53.357501
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: False
+created by: @AdstraxCloudsupport
+============================================================
+email: altervilladores@gmail.com
+password: Villadores1994
+country: Philippines (PH)
+mobile: 639484389796
+balance: 0
+total spent: 0
+currency code: 608
+created on: 2021-11-11T14:42:08.054947
+last update: 2021-11-11T14:42:08.054949
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: False
+created by: @AdstraxCloudsupport
+============================================================
+email: viernas14@gmail.com
+password: Prince_1405
+country: Philippines (PH)
+mobile: 639561542212
+balance: 0
+total spent: 0
+currency code: 608
+created on: 2021-12-18T14:31:26.360513
+last update: 2021-12-18T14:31:26.360515
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: False
+created by: @AdstraxCloudsupport
+============================================================
+email: nugrahapratama777@gmail.com
+password: Tsuisuichan76
+country: Indonesia (ID)
+mobile: 6285859803157
+balance: 0
+total spent: 0
+currency code: 360
+created on: 2022-11-23T20:14:57.493739
+last update: 2022-11-23T20:14:57.493739
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: False
+created by: @AdstraxCloudsupport
+============================================================
+email: marcdescalso12@gmail.com
+password: kairhandescalso1
+country: Philippines (PH)
+mobile: 639774865644
+balance: 0
+total spent: 0
+currency code: 608
+created on: 2021-11-19T16:24:13.301050
+last update: 2021-11-19T16:24:13.301051
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: False
+created by: @AdstraxCloudsupport
+============================================================
+email: mlbb4957@gmail.com
+password: EVAN231119
+country: Indonesia (ID)
+mobile: 6282248899209
+balance: 0
+total spent: 0
+currency code: 360
+created on: 2023-01-22T22:23:08.187008
+last update: 2023-01-22T22:23:08.187008
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: False
+created by: @AdstraxCloudsupport
+============================================================
+email: lorenzemacunat555@gmail.com
+password: pogi09511361169
+country: Philippines (PH)
+mobile: 639638916872
+balance: 3.4
+total spent: 1266.6
+currency code: 608
+created on: 2022-04-10T15:58:11.597229
+last update: 2024-06-05T05:34:07.443858
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: True
+created by: @AdstraxCloudsupport
+============================================================
+email: tupas.matt@gmail.com
+password: #AnimeGodz12345
+country: Philippines (PH)
+mobile: 639165920186
+balance: 0
+total spent: 0
+currency code: 608
+created on: 2022-02-27T04:07:54.308550
+last update: 2022-02-27T04:07:54.308552
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: False
+created by: @AdstraxCloudsupport
+============================================================
+email: nanotekno38@gmail.com
+password: erkek12345
+country: Sweden (SE)
+mobile: 905350213274
+balance: 0
+total spent: 0
+currency code: 792
+created on: 2023-08-12T15:40:08.734442
+last update: 2023-08-12T15:40:08.734442
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: False
+created by: @AdstraxCloudsupport
+============================================================
+email: markpogi1552@gmail.com
+password: markpogi1229
+country: Philippines (PH)
+mobile: 639636958544
+balance: 0
+total spent: 0
+currency code: 608
+created on: 2021-10-21T10:06:29.570158
+last update: 2021-10-21T10:06:29.570160
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: False
+created by: @AdstraxCloudsupport
+============================================================
+email: elijahcanaleta@gmail.com
+password: Msprod462$
+country: Philippines (PH)
+mobile: 639673074515
+balance: 1.5
+total spent: 1633.5
+currency code: 608
+created on: 2021-08-30T09:14:02.567510
+last update: 2024-11-07T16:44:48.531991
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: True
+created by: @AdstraxCloudsupport
+============================================================
+email: ppeezaz@gmail.com
+password: 0635922411a
+country: Thailand (TH)
+mobile: 66635922411
+balance: 0
+total spent: 0
+currency code: 764
+created on: 2023-04-15T06:14:05.907544
+last update: 2023-04-15T06:14:05.907544
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: False
+created by: @AdstraxCloudsupport
+============================================================
+email: asadabdulatip123@gmail.com
+password: asadedzla1
+country: Philippines (PH)
+mobile: 639262831355
+balance: 0
+total spent: 0
+currency code: 608
+created on: 2021-11-24T22:31:28.826567
+last update: 2021-11-24T22:31:28.826577
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: False
+created by: @AdstraxCloudsupport
+============================================================
+email: kaijukiddo79@gmail.com
+password: Ijat2504*
+country: Malaysia (MY)
+mobile: 60194137040
+balance: 0
+total spent: 0
+currency code: 458
+created on: 2021-11-01T13:37:49.565034
+last update: 2021-11-01T13:37:49.565035
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: False
+created by: @AdstraxCloudsupport
+============================================================
+email: ajlekxusbalaquit@gmail.com
+password: Balaquit23
+country: Philippines (PH)
+mobile: 639369173879
+balance: 0
+total spent: 20
+currency code: 608
+created on: 2023-08-05T05:13:31.555632
+last update: 2023-08-05T05:15:06.100707
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: True
+created by: @AdstraxCloudsupport
+============================================================
+email: ferianda1928@gmail.com
+password: ijong1928
+country: Indonesia (ID)
+mobile: 6289673189452
+balance: 752
+total spent: 51748
+currency code: 360
+created on: 2022-12-24T05:52:54.131022
+last update: 2026-01-22T18:20:24.973139
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 1748
+has spent: True
+created by: @AdstraxCloudsupport
+============================================================
+email: ahadiat00@gmail.com
+password: Shar@h0149
+country: Malaysia (MY)
+mobile: 60139117574
+balance: 0
+total spent: 0
+currency code: 458
+created on: 2024-05-19T04:54:00.162929
+last update: 2024-05-19T04:54:00.162929
+wallet limit date: 2026-01-25
+topup monthly total: 0
+topup daily total: 0
+purchase daily total: 0
+purchase monthly total: 0
+has spent: False
+created by: @AdstraxCloudsupport
+============================================================
