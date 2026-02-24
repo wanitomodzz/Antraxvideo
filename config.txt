@@ -1,2 +1,2 @@
-codm_accounts=https://www.dropbox.com/scl/fi/b4m28ms7wzf5ohu80bdia/codm_accounts.txt?rlkey=qyullkntst0dqcyzfsu5ld865&st=9mlhaau7&dl=1
-coda_accounts=https://www.dropbox.com/scl/fi/wfbczbpnqbyqa0x3tmfdj/coda_accounts.txt?rlkey=5o3yrdln8ev96mg0t7pih4jho&st=plt3mhtm&dl=1
+codm_accounts:https://raw.githubusercontent.com/wanitomodzz/Antraxvideo/refs/heads/main/codm_accounts.txt
+coda_accounts:https://raw.githubusercontent.com/wanitomodzz/Antraxvideo/refs/heads/main/coda_accounts.txt
